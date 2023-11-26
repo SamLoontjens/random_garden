@@ -14,14 +14,13 @@ def load_all_ascii_art(folder_name='flowers'):
             file_path = os.path.join(folder_path, filename)
             with open(file_path, 'r') as file:
                 art_lines = file.readlines()
-                # Optionally: strip newline characters from each line
                 art_lines = [line.rstrip('\n') for line in art_lines]
                 master_art_list.append(art_lines)
 
     return master_art_list
 
 # Generates a random garden
-def random_garden(draw_height = 20, draw_width = 200, seed = random.randrange(sys.maxsize), load_time = 0, info=1):
+def random_garden(draw_height = 20, draw_width = 200, seed = random.randrange(9999), load_time = 0, info=1):
   # info 0: no info, 1: only seed, 2: basic info, 3: all info
   # flowers from https://www.asciiart.eu/plants/flowers
   # note if there is an \\ in the flower it has to be dubbled to \\\\
