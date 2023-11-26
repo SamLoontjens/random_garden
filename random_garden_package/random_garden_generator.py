@@ -2,13 +2,23 @@ import random
 import time
 import sys
 import pkg_resources
+import os
 
 # For testing purposes
-def random_garden_test(file_name):
-  file_path = pkg_resources.resource_filename('random_garden_package', f'flowers/{file_name}')
-  with open(file_path, 'r') as file:
-    art = file.read()
-  print(art)
+def load_all_ascii_art(folder_name='flowers'):
+    master_art_list = []
+    folder_path = pkg_resources.resource_filename('random_garden_package', folder_name)
+
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.txt'):
+            file_path = os.path.join(folder_path, filename)
+            with open(file_path, 'r') as file:
+                art_lines = file.readlines()
+                # Optionally: strip newline characters from each line
+                art_lines = [line.rstrip('\n') for line in art_lines]
+                master_art_list.append(art_lines)
+
+    return master_art_list
 
 # Generates a random garden
 def random_garden(draw_height = 20, draw_width = 200, seed = random.randrange(sys.maxsize), load_time = 20):
