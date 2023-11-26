@@ -2,7 +2,7 @@ import random
 import time
 import sys
 
-def random_flower(draw_height = 20, draw_width = 200, seed = random.randrange(sys.maxsize), load_time = 20):
+def random_garden(draw_height = 20, draw_width = 200, seed = random.randrange(sys.maxsize), load_time = 20):
   # flowers from https://www.asciiart.eu/plants/flowers
   # note if there is an \\ in the flower it has to be dubbled to \\\\
   # make sure all flowers are square, and the top row is used for width
