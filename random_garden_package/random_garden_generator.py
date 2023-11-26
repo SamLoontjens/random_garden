@@ -108,6 +108,9 @@ def random_garden(draw_height = 20,
         # no animals were eligible
         animals_left = 0
         print("No animal was eligible")
+        
+        # go to start of loop
+        continue
     else:
       # select flower
       selected_flower = random.choice(eligible_flowers)
