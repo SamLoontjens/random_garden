@@ -16,8 +16,8 @@ Clone this repository and install the package using pip:
 Import and use the package:
 
     ```python
-    import random_garden
+    from random_garden_package.random_garden_generator import random_garden
 
-    random_garden.random_garden()
+    random_garden()
     
     ```

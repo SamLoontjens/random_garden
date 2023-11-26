@@ -20,7 +20,7 @@ def load_all_ascii_art(folder_name='flowers'):
     return master_art_list
 
 # Generates a random garden
-def random_garden(draw_height = 20, 
+def random_garden(draw_height = 26, 
                   draw_width = 200, 
                   seed = None, 
                   load_time = 0, 
