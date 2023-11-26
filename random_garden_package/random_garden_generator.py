@@ -20,7 +20,7 @@ def load_all_ascii_art(folder_name='flowers'):
     return master_art_list
 
 # Generates a random garden
-def random_garden(draw_height = 20, draw_width = 200, seed = random.randrange(9999), load_time = 0, info=1):
+def random_garden(draw_height = 20, draw_width = 200, seed = None, load_time = 0, info=1):
   # info 0: no info, 1: only seed, 2: basic info, 3: all info
   # flowers from https://www.asciiart.eu/plants/flowers
   # note if there is an \\ in the flower it has to be dubbled to \\\\
@@ -44,8 +44,10 @@ def random_garden(draw_height = 20, draw_width = 200, seed = random.randrange(99
 
   print(f"The selected draw width is:        {draw_width}\n") if info >= 2 else None
 
-  print(f"Seed: {seed}") if info >= 1 else None
+  if seed is None:
+        seed = round(time.time())
   random.seed(seed)
+  print(f"Seed: {seed}") if info >= 1 else None
 
   selected_flowers = []
   drawing = [''] * draw_height
