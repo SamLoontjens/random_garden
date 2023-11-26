@@ -1,7 +1,16 @@
 import random
 import time
 import sys
+import pkg_resources
 
+# For testing purposes
+def random_garden_test(file_name):
+  file_path = pkg_resources.resource_filename('random_garden_package', f'flowers/{file_name}')
+  with open(file_path, 'r') as file:
+    art = file.read()
+  print(art)
+
+# Generates a random garden
 def random_garden(draw_height = 20, draw_width = 200, seed = random.randrange(sys.maxsize), load_time = 20):
   # flowers from https://www.asciiart.eu/plants/flowers
   # note if there is an \\ in the flower it has to be dubbled to \\\\
