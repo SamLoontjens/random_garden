@@ -25,7 +25,7 @@ def random_garden(draw_height = 20,
                   seed = None, 
                   load_time = 0, 
                   info=1, 
-                  number_of_animals=1):
+                  number_of_animals=2):
   # info 0: no info, 1: only seed, 2: basic info, 3: all info
   # flowers from https://www.asciiart.eu/plants/flowers
   # note if there is an \\ in the flower it has to be dubbled to \\\\
@@ -107,8 +107,8 @@ def random_garden(draw_height = 20,
       else:
         # no animals were eligible
         animals_left = 0
-        print("No animal was eligible")
-        
+        print("No animal was eligible") if info >= 3 else None
+
         # go to start of loop
         continue
     else:
