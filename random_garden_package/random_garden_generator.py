@@ -294,6 +294,8 @@ def random_garden(draw_height = 20, draw_width = 200, seed = random.randrange(sy
   ]
   ]
 
+  flowers = load_all_ascii_art(folder_name='flowers')
+
   total_flowers = len(flowers)
   print(f"The total number of flowers is:    {total_flowers}")
 
