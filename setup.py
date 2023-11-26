@@ -6,7 +6,10 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     package_data={
-        'random_garden_package': ['flowers/*.txt']
+        'random_garden_package': [
+            'flowers/*.txt',
+            'animals/.txt'
+            ],
     },
     description='An ASCII garden art generator',
     long_description=open('README.md').read(),

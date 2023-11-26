@@ -1,1 +1,2 @@
 include random_garden_package/flowers/*.txt
+include random_garden_package/animals/*.txt
