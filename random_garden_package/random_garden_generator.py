@@ -133,11 +133,11 @@ def random_garden(draw_height = 26,
     day_characters = [' ', '~']
     day_weights = [30, 1]
     night_characters = [' ', '.', '+']
-    night_weights = [40, 2, 1]
+    night_weights = [80, 2, 1]
     rain_characters = [' ', '|', '\'']
     rain_weights = [20, 2, 1]
     snow_characters = [' ', '-', '*']
-    snow_weights = [30, 2, 1]
+    snow_weights = [20, 2, 1]
     for i in range(height_difference):
       if weather == 'day':
         weather_fill = ''.join(random.choices(day_characters, day_weights, k=width))
