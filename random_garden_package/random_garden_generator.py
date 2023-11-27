@@ -26,9 +26,9 @@ def random_garden(draw_height = 26,
                   load_time = 0, 
                   info=1, 
                   number_of_animals=2,
-                  rain = False,
-                  wind = False):
+                  weather = 'day'):
   # info 0: no info, 1: only seed, 2: basic info, 3: all info
+  # weather 'day', 'night', 'rain', 'snow'
   # flowers from https://www.asciiart.eu/plants/flowers
   # note if there is an \\ in the flower it has to be dubbled to \\\\
   # make sure all flowers are square, and the top row is used for width
@@ -128,19 +128,29 @@ def random_garden(draw_height = 26,
 
     print(f"The art height x width:       {height} x {width}") if info >= 3 else None
 
-    # add empty rows or rain
+    # add empty rows or weather
     height_difference = draw_height - height
+    day_characters = [' ', '~']
+    day_weights = [30, 1]
+    night_characters = [' ', '.', '+']
+    night_weights = [40, 2, 1]
     rain_characters = [' ', '|', '\'']
     rain_weights = [20, 2, 1]
-    wind_characters = [' ', '-', '*']
-    wind_weights = [20, 2, 1]
+    snow_characters = [' ', '-', '*']
+    snow_weights = [30, 2, 1]
     for i in range(height_difference):
-      if rain:
-        drawing[i] = drawing[i] + ''.join(random.choices(rain_characters, rain_weights, k=width))
-      elif wind:
-        drawing[i] = drawing[i] + ''.join(random.choices(wind_characters, wind_weights, k=width))
+      if weather == 'day':
+        weather_fill = ''.join(random.choices(day_characters, day_weights, k=width))
+      elif weather == 'night':
+        weather_fill = ''.join(random.choices(night_characters, night_weights, k=width))
+      elif weather == 'rain':
+        weather_fill = ''.join(random.choices(rain_characters, rain_weights, k=width))
+      elif weather == 'snow':
+        weather_fill = ''.join(random.choices(snow_characters, snow_weights, k=width))
       else:
-        drawing[i] = drawing[i] + width * " "
+        weather_fill = '' * width
+      
+      drawing[i] = drawing[i] + weather_fill
 
     # add rows
     for i in range(height):
