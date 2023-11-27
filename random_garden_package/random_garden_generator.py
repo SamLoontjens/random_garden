@@ -169,6 +169,6 @@ def random_garden(draw_height = 26,
   # make one long drawing string
   drawing_string = ''
   for row in drawing:
-    drawing_string = drawing_string + row + '\n'
+    drawing_string = drawing_string + row + ' \n'
 
   return drawing_string
