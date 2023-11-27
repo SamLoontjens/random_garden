@@ -130,7 +130,7 @@ def random_garden(draw_height = 26,
     # add empty rows or rain
     height_difference = draw_height - height
     rain_characters = [' ', '|', '\'']
-    rain_weights = [10, 2, 1]
+    rain_weights = [20, 2, 1]
     for i in range(height_difference):
       if rain:
          drawing[i] = drawing[i] + ''.join(random.choices(rain_characters, rain_weights, k=width))
@@ -154,5 +154,3 @@ def random_garden(draw_height = 26,
   for row in drawing:
     time.sleep(sleep_time)
     print(row)
-
-
