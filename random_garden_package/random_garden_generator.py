@@ -132,8 +132,8 @@ def random_garden(draw_height = 26,
     height_difference = draw_height - height
     rain_characters = [' ', '|', '\'']
     rain_weights = [20, 2, 1]
-    wind_characters = [' ', '~']
-    wind_weights = [20, 1]
+    wind_characters = [' ', '-']
+    wind_weights = [7, 1]
     for i in range(height_difference):
       if rain:
         drawing[i] = drawing[i] + ''.join(random.choices(rain_characters, rain_weights, k=width))
