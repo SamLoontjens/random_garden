@@ -166,13 +166,9 @@ def random_garden(draw_height = 26,
   print(f"each step waiting for: {sleep_time}") if info >= 2 else None
   print(f"Selected art: {selected_art}") if info >= 2 else None
 
+  # make one long drawing string
   drawing_string = ''
-  # print all rows
   for row in drawing:
-    time.sleep(sleep_time)
-    print(row) if print_garden else None
-
-    # make one long drawing string
     drawing_string = drawing_string + row + '\n'
 
   return drawing_string
