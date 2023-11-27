@@ -26,7 +26,8 @@ def random_garden(draw_height = 26,
                   load_time = 0, 
                   info=1, 
                   number_of_animals=2,
-                  rain = False):
+                  rain = False,
+                  wind = False):
   # info 0: no info, 1: only seed, 2: basic info, 3: all info
   # flowers from https://www.asciiart.eu/plants/flowers
   # note if there is an \\ in the flower it has to be dubbled to \\\\
@@ -131,11 +132,15 @@ def random_garden(draw_height = 26,
     height_difference = draw_height - height
     rain_characters = [' ', '|', '\'']
     rain_weights = [20, 2, 1]
+    wind_characters = [' ', '~']
+    wind_weights = [20, 1]
     for i in range(height_difference):
       if rain:
-         drawing[i] = drawing[i] + ''.join(random.choices(rain_characters, rain_weights, k=width))
+        drawing[i] = drawing[i] + ''.join(random.choices(rain_characters, rain_weights, k=width))
+      elif wind:
+        drawing[i] = drawing[i] + ''.join(random.choices(wind_characters, wind_weights, k=width))
       else:
-         drawing[i] = drawing[i] + width * " "
+        drawing[i] = drawing[i] + width * " "
 
     # add rows
     for i in range(height):
