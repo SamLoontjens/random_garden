@@ -131,7 +131,7 @@ def random_garden(draw_height = 26,
     # add empty rows or weather
     height_difference = draw_height - height
     day_characters = [' ', '~']
-    day_weights = [30, 1]
+    day_weights = [60, 1]
     night_characters = [' ', '.', '+']
     night_weights = [80, 2, 1]
     rain_characters = [' ', '|', '\'']
