@@ -1,2 +1,15 @@
-include random_garden_package/flowers/*.txt
-include random_garden_package/animals/*.txt
+include random_garden_package/art/general/flowers/*.txt
+include random_garden_package/art/general/animals/*.txt
+include random_garden_package/art/general/buildings/*.txt
+include random_garden_package/art/day/flowers/*.txt
+include random_garden_package/art/day/animals/*.txt
+include random_garden_package/art/day/buildings/*.txt
+include random_garden_package/art/night/flowers/*.txt
+include random_garden_package/art/night/animals/*.txt
+include random_garden_package/art/night/buildings/*.txt
+include random_garden_package/art/rain/flowers/*.txt
+include random_garden_package/art/rain/animals/*.txt
+include random_garden_package/art/rain/buildings/*.txt
+include random_garden_package/art/snow/flowers/*.txt
+include random_garden_package/art/snow/animals/*.txt
+include random_garden_package/art/snow/buildings/*.txt
