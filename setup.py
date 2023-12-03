@@ -32,19 +32,3 @@ setup(
     url='https://github.com/SamLoontjens/random_garden',
     # Add more information as needed
 )
-
-art/general/flowers/*.txt
-art/general/animals/*.txt
-art/general/buildings/*.txt
-art/day/flowers/*.txt
-art/day/animals/*.txt
-art/day/buildings/*.txt
-art/night/flowers/*.txt
-art/night/animals/*.txt
-art/night/buildings/*.txt
-art/rain/flowers/*.txt
-art/rain/animals/*.txt
-art/rain/buildings/*.txt
-art/snow/flowers/*.txt
-art/snow/animals/*.txt
-art/snow/buildings/*.txt
