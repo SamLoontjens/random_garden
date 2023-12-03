@@ -1,6 +1,5 @@
 import random
 import time
-import sys
 import pkg_resources
 import os
 
@@ -24,7 +23,8 @@ def random_garden(seed = None,
                   draw_height = 26, 
                   draw_width = 200,
                   weather = 'day',
-                  number_of_animals=2,
+                  max_animals=2,
+                  max_buildings=1,
                   info=1
                   ):
   # info 0: no info, 1: only seed, 2: basic info, 3: all info
@@ -68,6 +68,24 @@ def random_garden(seed = None,
     animal_heights.append(animal_height)
     animal_widths.append(animal_width)
 
+  # Load general buildings
+  buildings = load_ascii_art(folder_name='art/general/buildings/')
+  # Load weather buildings
+  buildings = buildings + load_ascii_art(folder_name=f'art/{weather}/buildings/')
+  # Check total buildings
+  total_buildings = len(buildings)
+  print(f"The total available buildings is: {total_buildings}") if info >= 2 else None
+
+  # get the buildings dimentions
+  building_heights = []
+  building_widths = []
+  for building in buildings:
+      building_height = len(building)
+      building_width = len(building[0])
+      print(f"The building height x width: {building_height} x {building_width}") if info >= 3 else None
+      building_heights.append(building_height)
+      building_widths.append(building_width)
+
   # print draw dimentions
   print(f"\nThe selected draw height is:       {draw_height}") if info >= 2 else None
   print(f"The selected draw width is:        {draw_width}\n") if info >= 2 else None
@@ -79,23 +97,28 @@ def random_garden(seed = None,
   print(f"Seed: {seed}") if info >= 1 else None
 
   # initialize parameters before loop
-  animals_left = number_of_animals
+  animals_left = max_animals
+  buildings_left = max_buildings
   selected_art = []
   drawing = [''] * draw_height
   draw_width_left = draw_width
 
-  # loop until no width left
+  # drawing loop: loop until no width left
   while draw_width_left > 0:
 
     # find eligible flowers
     eligible_flowers = [index for index, (flower_height, flower_width) in enumerate(zip(flower_heights, flower_widths)) if flower_height <= draw_height and flower_width <= draw_width_left]
     print(f"The eligible flowers are:        {eligible_flowers}") if info >= 3 else None
 
-    # chance for animal
-    if animals_left > 0 and random.random() < (animals_left / (animals_left + len(eligible_flowers))):
-      eligible_animals = [index for index, (animal_height, animal_width) in enumerate(zip(animal_heights, animal_widths)) if animal_height <= draw_height and animal_width <= draw_width_left]
-      print(f"The eligible animals are:        {eligible_animals}") if info >= 3 else None
+    eligible_animals = [index for index, (animal_height, animal_width) in enumerate(zip(animal_heights, animal_widths)) if animal_height <= draw_height and animal_width <= draw_width_left]
+    print(f"The eligible animals are:        {eligible_animals}") if info >= 3 else None
 
+    eligible_buildings = [index for index, (building_height, building_width) in enumerate(zip(building_heights, building_widths)) if building_height <= draw_height and building_width <= draw_width_left]
+    print(f"The eligible animals are:        {eligible_animals}") if info >= 3 else None
+
+    # chance for animal
+    if animals_left > 0 and random.random() < (animals_left / (animals_left + len(eligible_flowers) + len(eligible_buildings))):
+      # select animal
       if(eligible_animals):
         selected_animal = random.choice(eligible_animals)
         print(f"The selected animal number:      {selected_animal}") if info >= 3 else None
@@ -114,6 +137,29 @@ def random_garden(seed = None,
         # no animals were eligible
         animals_left = 0
         print("No animal was eligible") if info >= 3 else None
+
+        # go to start of loop
+        continue
+    elif buildings_left > 0 and random.random() < (buildings_left / (buildings_left + len(eligible_flowers) + len(eligible_animals))):
+       # select building
+      if(eligible_buildings):
+        selected_building = random.choice(eligible_buildings)
+        print(f"The selected building number:      {selected_building}") if info >= 3 else None
+        selected_art.append(f"a{selected_building}")
+        
+        # get the building art
+        art = buildings[selected_building]
+
+        # get building dimentions
+        height = building_heights[selected_building]
+        width = building_widths[selected_building]
+        
+        # subtract one from buildings left
+        buildings_left -= 1
+      else:
+        # no buildings were eligible
+        buildings_left = 0
+        print("No building was eligible") if info >= 3 else None
 
         # go to start of loop
         continue
