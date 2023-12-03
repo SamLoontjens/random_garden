@@ -8,6 +8,11 @@ def load_ascii_art(folder_name='flowers'):
     art_list = []
     folder_path = pkg_resources.resource_filename('random_garden_package', folder_name)
 
+    # Check if the folder contains any .txt files
+    if not any(filename.endswith('.txt') for filename in os.listdir(folder_path)):
+        return art_list
+
+    # read all ascii art files in that folder
     for filename in os.listdir(folder_path):
         if filename.endswith('.txt'):
             file_path = os.path.join(folder_path, filename)
