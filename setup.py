@@ -21,7 +21,7 @@ setup(
             'art/rain/buildings/*.txt',
             'art/snow/flowers/*.txt',
             'art/snow/animals/*.txt',
-            'art/snow/buildings/*.txt'
+            'art/snow/buildings/*.txt',
             ],
     },
     description='An ASCII garden art generator',
