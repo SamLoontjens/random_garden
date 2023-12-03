@@ -8,6 +8,10 @@ def load_ascii_art(folder_name='flowers'):
     art_list = []
     folder_path = pkg_resources.resource_filename('random_garden_package', folder_name)
 
+    # Check if the directory exists, return empty list if not
+    if not os.path.exists(folder_path):
+        return art_list
+
     # Check if the folder contains any .txt files
     if not any(filename.endswith('.txt') for filename in os.listdir(folder_path)):
         return art_list
