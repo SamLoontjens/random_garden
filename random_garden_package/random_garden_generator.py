@@ -5,8 +5,8 @@ import pkg_resources
 import os
 
 # Load all ascii art from one folder
-def load_all_ascii_art(folder_name='flowers'):
-    master_art_list = []
+def load_ascii_art(folder_name='flowers'):
+    art_list = []
     folder_path = pkg_resources.resource_filename('random_garden_package', folder_name)
 
     for filename in os.listdir(folder_path):
@@ -15,27 +15,28 @@ def load_all_ascii_art(folder_name='flowers'):
             with open(file_path, 'r') as file:
                 art_lines = file.readlines()
                 art_lines = [line.rstrip('\n') for line in art_lines]
-                master_art_list.append(art_lines)
+                art_list.append(art_lines)
 
-    return master_art_list
+    return art_list
 
 # Generates a random garden
-def random_garden(draw_height = 26, 
-                  draw_width = 200, 
-                  seed = None, 
-                  load_time = 0, 
-                  info=1,
-                  print_garden = True, 
+def random_garden(seed = None,
+                  draw_height = 26, 
+                  draw_width = 200,
+                  weather = 'day',
                   number_of_animals=2,
-                  weather = 'day'):
+                  info=1
+                  ):
   # info 0: no info, 1: only seed, 2: basic info, 3: all info
   # weather 'day', 'night', 'rain', 'snow'
   # flowers from https://www.asciiart.eu/plants/flowers
-  # note if there is an \\ in the flower it has to be dubbled to \\\\
   # make sure all flowers are square, and the top row is used for width
 
-  # load all flowers
-  flowers = load_all_ascii_art(folder_name='flowers')
+  # load general flowers
+  flowers = load_ascii_art(folder_name='art/general/flowers/')
+  # load weather flowers
+  flowers = flowers + load_ascii_art(folder_name=f'art/{weather}/flowers/')
+  # check total flowers
   total_flowers = len(flowers)
   print(f"The total available flowers is:    {total_flowers}") if info >= 2 else None
 
@@ -49,8 +50,11 @@ def random_garden(draw_height = 26,
     flower_heights.append(flower_height)
     flower_widths.append(flower_width)
 
-  # load all animals
-  animals = load_all_ascii_art(folder_name='animals')
+  # load general animals
+  animals = load_ascii_art(folder_name='art/general/animals')
+  # load weather animals
+  animals = animals + load_ascii_art(folder_name=f'art/{weather}/animals/')
+  # check total animals
   total_animals = len(animals)
   print(f"The total available animals is:    {total_animals}") if info >= 2 else None
 
@@ -61,7 +65,6 @@ def random_garden(draw_height = 26,
     animal_height = len(animal)
     animal_width = len(animal[0])
     print(f"The animal height x width:       {animal_height} x {animal_width}") if info >= 3 else None
-
     animal_heights.append(animal_height)
     animal_widths.append(animal_width)
 
@@ -161,9 +164,7 @@ def random_garden(draw_height = 26,
     draw_width_left = draw_width_left - width
     print(f"draw width left: {draw_width_left}\n") if info >= 3 else None
 
-  # set sleep time
-  sleep_time = load_time / draw_height
-  print(f"each step waiting for: {sleep_time}") if info >= 2 else None
+  # print selected art
   print(f"Selected art: {selected_art}") if info >= 2 else None
 
   # make one long drawing string
