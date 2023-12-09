@@ -21,9 +21,11 @@ class AsciiArt:
         with open(file_path, 'r') as file:
             lines = file.readlines()
 
-        name = category = rarity = source = None
+        name = category = source = None
         weather = []
         artists = []
+        editors = []
+        rarity = 1
 
         original_art_lines = []
         new_art_lines = []
