@@ -10,7 +10,7 @@ class AsciiArt:
         self.category = category
         self.weather = weather
         self.rarity = rarity
-        self.artists = artists
+        self.artists = artists if artists else []
         self.editors = editors if editors else []
         self.source = source
         self.original_art = original_art
@@ -26,6 +26,9 @@ class AsciiArt:
         original_art_lines = []
         new_art_lines = []
         is_new_art = False
+        weather = []
+        artists = []
+
 
         for line in lines:
             if line.startswith('[') and line.endswith(']'):
@@ -42,9 +45,9 @@ class AsciiArt:
             elif current_section == 'rarity':
                 rarity = int(line.strip())
             elif current_section == 'artists':
-                artists = [a.strip() for a in line.split(',')]
+                artists = [a.strip() for a in line.split(',')] if line.strip() else []
             elif current_section == 'editors':
-                editors = [e.strip() for e in line.split(',')]
+                editors = [e.strip() for e in line.split(',')] if line.strip() else []
             elif current_section == 'retrieved from':
                 source = line.strip()
             elif current_section == 'original' and not is_new_art:
