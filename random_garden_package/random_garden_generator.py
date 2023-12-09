@@ -38,7 +38,7 @@ class AsciiArt:
             elif current_section == 'category':
                 category = line.strip()
             elif current_section == 'weather':
-                weather = line.strip().split(', ')
+                weather = line.strip().split(', ') if line.strip() else []
             elif current_section == 'rarity':
                 rarity = int(line.strip())
             elif current_section == 'artists':
@@ -107,7 +107,7 @@ def random_garden(seed = None,
 
   # Function to filter art by weather
   def filter_art_by_weather(art_objects, selected_weather):
-    return [art for art in art_objects if selected_weather in art.weather]
+    return [art for art in art_objects if not art.weather or selected_weather in art.weather]
 
   # Load and filter art by weather
   all_flowers = load_ascii_art('art/flowers/')
