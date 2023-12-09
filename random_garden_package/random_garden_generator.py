@@ -41,7 +41,7 @@ class AsciiArt:
             elif current_section == 'rarity':
                 rarity = int(line)
             elif current_section == 'artist':
-                artist = line
+                artist = line.split(', ')
             elif current_section == 'editor':
                 editor = line
             elif current_section == 'retrieved from':
@@ -110,6 +110,7 @@ def random_garden(seed = None,
 
   # Load and filter art by weather
   all_flowers = load_ascii_art('art/flowers/')
+  print(len(all_flowers))
   flowers = filter_art_by_weather(all_flowers, weather)
 
   all_animals = load_ascii_art('art/animals/')
