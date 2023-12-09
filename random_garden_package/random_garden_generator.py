@@ -37,7 +37,6 @@ class AsciiArt:
             if line.startswith('[') and line.endswith(']'):
                 current_section = line[1:-1].lower()
                 is_new_art = current_section == 'new'
-                print(f"Current section: {current_section}")
                 continue
 
             if current_section == 'name':
@@ -62,14 +61,11 @@ class AsciiArt:
 
         original_art = ''.join(original_art_lines)
         new_art = ''.join(new_art_lines)
-        print(f"Original Art: {original_art[:30]}...")  # Debugging line
-        print(f"New Art: {new_art[:30]}...")  # Debugging line
 
         return AsciiArt(name, category, weather, rarity, artists, editors, source, original_art, new_art)
 
     def __str__(self):
         return self.new_art if self.new_art else self.original_art
-
 
 def load_ascii_art(folder_name='art/flowers/'):
     art_list = []
