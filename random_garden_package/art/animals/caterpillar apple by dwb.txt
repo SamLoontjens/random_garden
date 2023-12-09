@@ -1,0 +1,29 @@
+[name]
+caterpillar
+[category]
+animals
+[weather]
+day
+[rarity]
+1
+[artist]
+dwb
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/apple
+[original]
+      _        ,..
+ ,--._\\_.--, (-00)
+; #         _:(  -)
+:          (_____/
+:            :
+ `.___..___.`dwb
+[new]
+      _        ,..  
+ ,--._\\_.--, (-00) 
+; #         _:(  -) 
+:          (_____/  
+:            :   @  
+ `.___..___.`   \|/ 
+^^^^^^^^^^^^^^^^^^^^

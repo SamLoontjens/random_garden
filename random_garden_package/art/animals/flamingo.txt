@@ -1,0 +1,45 @@
+[name]
+flamingo
+[category]
+animals
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+unknown
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/flamingo
+[original]
+               __
+              /(`o
+        ,-,  //  \\
+       (,,,) ||   V
+      (,,,,)\//
+      (,,,/w)-'
+      \,,/w)
+      `V/uu
+        / |
+        | |
+        o o
+        \ |
+  \,/   ,\|,.  \,/
+
+unknown
+[new]
+            __  
+           /(`o 
+     ,-,  //  \\
+    (,,,) ||   V
+   (,,,,)\//    
+   (,,,/w)-'    
+   \,,/w)       
+   `V/uu        
+     / |        
+     | |        
+     o o        
+     \ |        
+\,/  ,\|,.  \,/ 
+^^^^^^^^^^^^^^^^

@@ -1,0 +1,34 @@
+[name]
+bike
+[category]
+buildings
+[weather]
+day
+[rarity]
+1
+[artist]
+hjw
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/bike
+[original]
+                                        __
+                             ,--.      <__)
+                             `- |________7
+                                |`.      |\
+                             .--|. \     |.\--.
+                            /   j \ `.7__j__\  \
+                           |   o   | (o)____O)  |
+                            \     /   J  \     /
+                             `---'        `---'      hjw
+[new]
+             __       
+  ,--.      <__)   ~  
+   `- |________7      
+      |`.      |\     
+   .--|. \     |.\--. 
+ /   j \ `.7__j__\  \ 
+|   o   | (o)____O)  |
+ \     /   J  \     / 
+^^`---'^^^^^^^^`---'^^

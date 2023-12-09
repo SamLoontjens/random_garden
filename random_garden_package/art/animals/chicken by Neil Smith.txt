@@ -1,0 +1,27 @@
+[name]
+chicken
+[category]
+animals
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+Neil Smith
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/chicken
+[original]
+   \\
+   (o>
+\\_//)
+ \_/_)
+  _|_                Chicken      -Neil Smith-
+[new]
+    \\ 
+    (o>
+ \\_//)
+  \_/_)
+   _|_ 
+^.^^^^^^

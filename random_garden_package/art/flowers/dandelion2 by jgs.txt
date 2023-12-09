@@ -1,0 +1,32 @@
+[name]
+dandelion2
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+jgs
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/dandelion
+[original]
+        .;:;:.
+        ::;:;:
+      _ ';:;;'
+      >'. ||  _
+       `>\||.'<
+        `>|/ <`
+         `||/`
+   ^jgs^^^^^^^^^^^
+[new]
+  .;:;:. 
+  ::;:;: 
+_ ';:;;' 
+>'. ||  _
+ `>\||.'<
+  `>|/ <`
+   `||/` 
+^^^^^^^^^

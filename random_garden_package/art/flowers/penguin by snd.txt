@@ -1,0 +1,29 @@
+[name]
+penguin
+[category]
+animals
+[weather]
+snow
+[rarity]
+1
+[artist]
+snd
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/penguins
+[original]
+                        __
+                     -=(o '.
+                        '.-.\
+                        /|  \\
+                        '|  ||
+               snd       _\_):,_
+[new]
+-*  __   * -
+ -=(o '.  - 
+   '.-.\    
+*  /|  \\  *
+   '|  ||  
+  * _\_):,_ 
+^^^^^^^^^^^^

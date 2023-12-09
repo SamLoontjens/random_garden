@@ -1,0 +1,28 @@
+[name]
+turtle
+[category]
+animals
+[weather]
+rain
+[rarity]
+1
+[artist]
+Dorit
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/turtle
+[original]
+From: Dorit 
+      ___
+ ,,  // \\
+(_,\/ \_/ \
+  \ \_/_\_/>
+  /_/  /_/
+[new]
+'      ___ '| 
+  ,,  // \\  '
+ (_,\/ \_/ \  
+   \ \_/_\_/> 
+'  /_/  /_/   
+^^^^^^^^^^^^^^

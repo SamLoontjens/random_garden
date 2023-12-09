@@ -1,0 +1,30 @@
+[name]
+snowman
+[category]
+buildings
+[weather]
+snow
+[rarity]
+1
+[artist]
+jgs
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/snowman
+[original]
+           ___
+         _[___]_  _
+          ( " )  [_]
+      '--(`~:~`)--|'
+        / `-:-' \ |
+   __.--\   :   /--.
+.'` jgs  '-----'    '-.._
+[new]
+      ___   *   
+ *  _[___]_  _  
+     ( " )  [_] 
+ '--(`~:~`)--|' 
+   / `-:-' \ |  
+.--\   :   /--. 
+^'^^^^^'  ^^' ^^

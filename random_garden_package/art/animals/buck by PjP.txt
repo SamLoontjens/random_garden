@@ -1,0 +1,29 @@
+[name]
+buck
+[category]
+animals
+[weather]
+night
+[rarity]
+1
+[artist]
+PjP
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/deer
+[original]
+ ,_)/
+   (-'
+ .-'\ 
+  "'\'"""""'),
+     )/---,( 
+PjP / \  / |      , '     , '   , '   ,'   ,'    ,'   ;     ;
+[new]
+ ,_)/      +   
+   (-'    .    
+ .-'\          
+  "'\'"""""'), 
+     )/---,(   
+    / \  / |   
+^^^^^^^^^^^^^^^

@@ -1,0 +1,41 @@
+[name]
+kiwi bird
+[category]
+animals
+[weather]
+snow
+[rarity]
+1
+[artist]
+unknown
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/kiwi
+[original]
+   __ _
+  /  ('>-
+  \__/
+   L\_
+
+
+
+  __ _         __ _       __ _     __ _           _ __
+ /  ('>-      /  ('>-    /  ('>-  /  ('>-       -<')  \
+ \__/         \__/       \__/     \__/             \__/
+  L\_          L\_        L\_      L\_             _/I
+
+
+  __ _         __ _       __ _     __ _           _ __
+ /  ('>-      /  ('>-    /  ('>-  /  ('>-       -<')  \
+ \__/         \__/       \__/     \__/             \__/
+  L\_          L\_        L\_      L\_             _/I
+
+
+unknown
+[new]
+  __ _   
+ /  ('>- 
+ \__/    
+  L\_    
+^^^^^^^^^

@@ -1,0 +1,12 @@
+[name]
+grass2
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+Sam Loontjens
+[original]
+^^^

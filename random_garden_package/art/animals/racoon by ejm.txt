@@ -1,0 +1,28 @@
+[name]
+racoon
+[category]
+animals
+[weather]
+night
+[rarity]
+1
+[artist]
+ejm
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/racoon
+[original]
+                        ,,,
+                     .'    `/\_/\
+                   .'       <@I@>
+        <((((((((((  )____(  \./
+                   \( \(   \(\(
+     ejm            `-"`-"  " "
+[new]
+     .           ,,,       
+   +          .'    `/\_/\ 
+     ,  ,   .'       <0|0> 
+ <((((((((((  )____(  \./  
+            \( \(   \(\(   
+^^^^^^^^^^^^^`-"`-"  " "^^^

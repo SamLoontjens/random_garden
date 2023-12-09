@@ -1,0 +1,29 @@
+[name]
+flower
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+MT
+[editor]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/plants/flowers
+[original]
+      _
+    .\ /.
+MT < ~O~ >
+    '/_\'
+    \ | /
+     \|/
+[new]
+   _   
+ .\ /. 
+< ~O~ >
+ '/_\' 
+ \ | / 
+  \|/  
+^^^^^^^

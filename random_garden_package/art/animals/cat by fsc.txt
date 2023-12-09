@@ -1,0 +1,29 @@
+[name]
+cat
+[category]
+animals
+[weather]
+night
+[rarity]
+1
+[artist]
+fsc
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/cat
+[original]
+                   _..
+  /}_{\           /.-'
+ ( a a )-.___...-'/
+ ==._.==         ;
+      \ i _..._ /,
+      {_;/   {_//  fsc
+[new]
+         .   +     _.. 
+  /}_{\           /.-' 
+ ( a a )-.___...-'/    
+ ==._.==         ;     
+      \ i _..._ /,     
+      {_;/   {_//      
+^^^^^^^^^^^^^^^^^^^^^^^

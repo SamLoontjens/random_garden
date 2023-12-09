@@ -1,0 +1,31 @@
+[name]
+cow
+[category]
+animals
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+Shanaka Dias
+[editor]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/cows
+[original]
+Art by Shanaka Dias
+
+           __n__n__
+    .------`-\00/-'
+   /  ##  ## (oo)
+  / \## __   ./
+     |//YY \|/
+snd  |||   |||
+[new]
+           __n__n__ 
+    .------`-\00/-' 
+   /  ##  ## (oo)   
+  / \## __   ./     
+     |//YY \|/   @  
+\./  |||   |||  \|/ 
+^^^^^^^^^^^^^^^^^^^^

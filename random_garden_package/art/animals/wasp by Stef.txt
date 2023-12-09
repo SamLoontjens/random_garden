@@ -1,0 +1,35 @@
+[name]
+wasp
+[category]
+animals
+[weather]
+day
+[rarity]
+1
+[artist]
+Stef
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/wasp
+[original]
+            _  _
+           | )/ )
+        \\ |//,' __
+        (")(_)-"()))=-
+           (\\
+Stef
+[new]
+     _  _                  
+    | )/ )       ~         
+ \\ |//,' __               
+ (")(_)-"()))=- .._..-''-- 
+    (\\            `       
+   _                     ~ 
+ _(_)_     _               
+(_)@(_)  .\ /.   ~  wWWWw  
+  (_)\  < ~O~ >     (___)  
+     |   '/_\'        Y    
+    \|/  \ | /      \ |/   
+  \\\|//  \|/       \\|/// 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^

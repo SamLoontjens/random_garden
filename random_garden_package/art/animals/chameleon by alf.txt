@@ -1,0 +1,25 @@
+[name]
+chameleon
+[category]
+animals
+[weather]
+rain
+[rarity]
+1
+[artist]
+alf
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/chameleon
+[original]
+  ____
+/@    ~-.
+\/ __ .- |
+ // //  @  alf
+[new]
+   ____     
+ /@    ~-.  
+ \/ __ .- | 
+  // //  @  
+^^^^^^^^^^^^

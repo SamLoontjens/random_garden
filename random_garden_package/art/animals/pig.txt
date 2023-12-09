@@ -1,0 +1,28 @@
+[name]
+pig
+[category]
+animals
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+unknown
+[editor]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/other-land
+[original]
+Pig
+
+    _____  
+^..^     \9
+(oo)_____/ 
+   WW  WW
+
+[new]
+     _____  
+ ^..^     \9
+ (oo)_____/ 
+    WW  WW  
+^^^^^^^^^^^^

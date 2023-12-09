@@ -1,0 +1,35 @@
+[name]
+pine
+[category]
+flowers
+[weather]
+snow
+[rarity]
+1
+[artist]
+Bruce Patterson
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/leaf
+[original]
+    |
+   \|/
+  \\|//
+ \\\|///
+ \\\|///
+  \\|//
+   \|/
+    |
+  Bruce
+Patterson
+[new]
+*  |   
+  \|/  
+ \\|// 
+\\\|///
+\\\|///
+ \\|//*
+  \|/  
+\  | \/
+^^^^^^^

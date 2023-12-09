@@ -1,0 +1,36 @@
+[name]
+egret
+[category]
+animals
+[weather]
+rain
+[rarity]
+1
+[artist]
+jgs
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/birds
+[original]
+          _,
+     -==<' `\
+         ) /
+        / (_.
+       | ,-,`\
+        \\  \ \
+         `\, \ \
+          ||\ \`|,
+   jgs   _|| `=`-'
+        ~~`~`
+[new]
+'    _,   ' |
+-==<' `\     
+    ) /    | 
+   / (_.   '|
+  | ,-,`\    
+   \\  \ \   
+    `\, \ \  
+'    ||\ \`|,
+    _|| `=`-'
+.~~ ~~`~`~ ~.

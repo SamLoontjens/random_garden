@@ -1,0 +1,36 @@
+[name]
+frog
+[category]
+animals
+[weather]
+rain
+[rarity]
+1
+[artist]
+hjw
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/frog
+[original]
+      /     \
+      _(I)(I)_
+     ( _ .. _ )
+      `.`--'.'
+       )    (
+   ,-./      \,-.
+  ( _( ||  || )_ )
+ __\ \\||--||'/ /__ hjw
+ `-._//||\/||\\_.-'
+      `--'`--'
+[new]
+    |          | |  
+ |    _(^)(^)_    ' 
+  |  ( _ .. _ )    |
+| '   `.`--'.'   |  
+ '     )    (     ' 
+   ,-./      \,-.   
+  ( _( ||  || )_ ) '
+ __\ \\||--||'/ /__ 
+.`-._//||\/||\\_.-'.
+^^^^^^`--'`--'^^^^^^

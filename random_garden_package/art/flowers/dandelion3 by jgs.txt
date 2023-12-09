@@ -1,0 +1,36 @@
+[name]
+dandelion3
+[category]
+flowers
+[weather]
+day
+[rarity]
+1
+[artist]
+jgs
+[editor]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/plants/dandelions
+[original]
+     .;:;:.     `::`
+     ::;:':      /
+   _ ';:;;'     `
+   >'. ||  _
+   `> \||.'<
+     `>|/ <`
+      `||/`
+^jgs^^^^^^^^^^^
+[new]
+     `::`
+      /  
+     `   
+         
+  .;:;:. 
+  ::;:': 
+_ ';:;;' 
+>'. ||  _
+`> \||.'<
+  `>|/ <`
+  `||/`  
+^^^^^^^^^

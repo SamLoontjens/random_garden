@@ -1,0 +1,54 @@
+[name]
+daisies
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+Joan G. Stark
+[editor]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/plants/other
+[original]
+Daisies by Joan G. Stark
+
+       .-.
+ __   /   \   __
+(  `'.\   /.'`  )
+ '-._.(;;;)._.-'
+ .-'  ,`"`,  '-.
+(__.-'/   \'-.__)
+      \   /\
+       '-'  \
+        ,    |
+        |\   |
+        \ |  |
+         | \ /
+          \|/    _,
+           /  __/ /
+      jgs | _/ _.'
+          |/__/
+           \
+
+[new]
+       .-.          
+ __   /   \   __    
+(  `'.\   /.'`  )   
+ '-._.(;;;)._.-'    
+ .-'  ,`"`,  '-.    
+(__.-'/   \'-.__)   
+      \   /\        
+       '-'  \       
+        ,    |      
+        |\   |      
+        \ |  |      
+ @@@@    | \ /      
+@@()@@    \|/    _, 
+ @@@@  @@  /  __/ / 
+   \  @()@| _/ _.'  
+    | /@@ |/__/ | / 
+  \\|//    \   \|// 
+^^^^^^^^^^^^^^^^^^^^

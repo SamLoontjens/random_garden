@@ -1,0 +1,51 @@
+[name]
+hustinettenbaer
+[category]
+animals
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+ctr
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/bear
+[original]
+
+    The `Hustinettenbaer'
+
+
+          ( )___( )
+          /__oo   \
+         ( \/     )
+         | `=/    |
+        /         \
+       /  /    \   \
+      /  (      \   \ 
+     ( ,_/_      \   \
+      \_ '=       \   )
+        ""'       /  /
+        ;        /  /'?
+        :       (((( /
+   ctr   `._   \  _ (
+          __|   |  /_    
+        ("__,.."'_._.)  
+[new]
+     ( )___( )    
+     /__oo   \    
+    ( \/     )    
+    | `=/    |    
+   /         \    
+  /  /    \   \   
+ /  (      \   \  
+( ,_/_      \   \ 
+ \_ '=       \   )
+   ""'       /  / 
+   ;        /  /'?
+   :       (((( / 
+    `._   \  _ (  
+     __|   |  /_  
+   ("__,.."'_._.) 
+^^^^^^^^^^^^^^^^^^

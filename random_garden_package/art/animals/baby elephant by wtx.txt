@@ -1,0 +1,27 @@
+[name]
+baby elephant
+[category]
+animals
+[weather]
+rain
+[rarity]
+1
+[artist]
+wtx
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/elephant
+[original]
+          _                 
+   ______/ \-.   _         _ __ _         _    _  
+.-/     (    o\_//        / |..| \       / >--< \ 
+ |  ___  \_/\---'         \/ || \/       \|  \ |/ 
+ |_||  |_||                |_''_|         |_||_|     wtx
+[new]
+ |'   '    _      '|
+    ______/ \-.   _ 
+ .-/     (    o\_// 
+  |  ___  \_/\---'  
+  |_||  |_||        
+^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,39 @@
+[name]
+rose1
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+jgs
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/flowers
+[original]
+            ,
+        .--'|}
+       /    /}}
+     .=\.--'`\}
+    //` '---./`
+    ||  /|
+     \\| |
+   |\_\\/
+   \__/\\
+        \\
+  jgs    \|
+[new]
+         ,  
+     .--'|} 
+    /    /}}
+  .=\.--'`\}
+ //` '---./`
+ ||  /|     
+  \\| |     
+|\_\\/      
+\__/\\   @  
+   @ \\  |/ 
+  \\/ \\ |/ 
+^^^^^^^^^^^^

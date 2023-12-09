@@ -1,0 +1,29 @@
+[name]
+anteater
+[category]
+animals
+[weather]
+night
+[rarity]
+1
+[artist]
+Win Kang
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/anteater
+[original]
+AntEater by Win Kang
+
+    Z   z                                  //////////////_               the
+           Z   O               __\\\\@   //^^        _-    \///////    sleeping
+        Z    z   o       _____((_     \-/ ____/ /   {   { \\       }     ant
+                   o    0__________\\\---//____/----//__|-^\\\\\\\\     eater
+[new]
+            z   Z                           
+     O   Z                                  
+   o   z    Z      //////////////_          
+ o     __\\\\@   //^^        _-    \/////// 
+ _____((_     \-/ ____/ /   {   { \\       }
+0__________\\\---//____/----//__|-^\\\\\\\\ 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

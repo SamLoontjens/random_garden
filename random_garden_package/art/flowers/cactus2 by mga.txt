@@ -1,0 +1,33 @@
+[name]
+cactus2
+[category]
+flowers
+[weather]
+day
+[rarity]
+1
+[artist]
+mga
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/cactus
+[original]
+   _  _
+  | || | _
+ -| || || |
+  | || || |-
+   \_  || |
+     |  _/
+    -| | \
+     |_|-               mga
+[new]
+  _  _     
+ | || | _  
+-| || || | 
+ | || || |-
+  \_  || | 
+    |  _/  
+   -| | \  
+\./ |_|-   
+^^^^^^^^^^^

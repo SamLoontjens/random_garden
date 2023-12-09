@@ -1,0 +1,30 @@
+[name]
+boat
+[category]
+buildings
+[weather]
+rain
+[rarity]
+1
+[artist]
+unknown
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/boat
+[original]
+     _
+    /|\
+   /_|_\
+ ____|____
+ \_o_o_o_/
+~~ |     ~~~~~
+___t_________ 
+
+unknown
+[new]
+'     _ '   |
+ |   /|\   ' 
+|   /_|_\    
+  ____|____ |
+~~\_o_o_o_/~~

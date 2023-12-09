@@ -1,0 +1,32 @@
+[name]
+ducks
+[category]
+animals
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+Hayley Jane Wakenshaw
+[editor]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/birds-water
+[original]
+Art by Hayley Jane Wakenshaw
+
+  __
+<(o )___
+ ( ._> /
+  `---'   hjw
+Art by Hayley Jane Wakenshaw
+
+    __
+___( o)>
+\ <_. )
+ `---'   hjw
+[new]
+      __       __      
+  ___( o)>   <(o )___  
+  \ <_. )     ( ._> /  
+~^~`^~-'~^~^~^~`^~-'~^~

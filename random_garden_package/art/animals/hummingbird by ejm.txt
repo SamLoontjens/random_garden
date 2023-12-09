@@ -1,0 +1,36 @@
+[name]
+hummingbird
+[category]
+animals
+[weather]
+day
+[rarity]
+1
+[artist]
+ejm
+[editor]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/birds-land
+[original]
+Hummingbird
+
+  __/)       __
+-(__(  ---@./ww
+    \)     (\
+ejm         "`
+
+[new]
+    __/)      __ 
+   (__( ---@./ww 
+|\ |  \)    (\   
+\ ||         "'  
+ \||     (\__    
+  \|      )__)   
+   |     (/  | /|
+   |         || /
+   |         ||/ 
+   |     |   |/  
+   |    \|   |   
+   |     |   |   
+^^^^^^^^^^^^^^^^^

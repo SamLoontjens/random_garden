@@ -1,0 +1,43 @@
+[name]
+mushroom
+[category]
+flowers
+[weather]
+night
+[rarity]
+1
+[artist]
+itz
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/mushroom
+[original]
+            ___..._
+       _,--'       "`-.
+     ,'.  .            \
+   ,/:. .     .       .'
+   |;..  .      _..--'
+   `--:...-,-'""\
+           |:.  `.
+           l;.   l
+           `|:.   |
+            |:.   `.,
+           .l;.    j, ,
+        `. \`;:.   //,/
+         .\\)`;,|\'/(
+          ` `itz `(,
+[new]
+         ___..._     
+    _,--'       "`-. 
+  ,'.  .            \
+,/:. .     .       .'
+|;..  .      _..--'  
+`--:...-,-'""\       
+        |:.  `.      
+        l;.   l      
+        `|:.   |     
+         |:.   `.,   
+  @     .l;.    j, , 
+ \|/ `. \`;:.   //,/ 
+^^^^^^^^^^^^^^^^^^^^^

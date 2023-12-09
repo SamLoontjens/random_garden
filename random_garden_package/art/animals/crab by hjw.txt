@@ -1,0 +1,33 @@
+[name]
+crab
+[category]
+animals
+[weather]
+rain
+[rarity]
+1
+[artist]
+hjw
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/crab
+[original]
+                   __       __
+                  / <`     '> \
+                 (  / @   @ \  )
+                  \(_ _\_/_ _)/
+                (\ `-/     \-' /)
+                 "===\     /==="
+                  .==')___(`==.    hjw
+                 ' .='     `=.
+[new]
+'  __  '    __  |
+  / <`     '> \  
+ (  / @   @ \  ) 
+  \(_ _\_/_ _)/  
+(\ `-/     \-' /)
+ "===\     /===" 
+  .==')___(`==.  
+ ' .='     `=. \/
+^~^~^~^~^~^~^~^~^

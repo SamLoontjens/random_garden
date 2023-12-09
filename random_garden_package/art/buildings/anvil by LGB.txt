@@ -1,0 +1,34 @@
+[name]
+anvil
+[category]
+buildings
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+LGB
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/anvil
+[original]
+  .-------..___
+  '-._     :_.-'
+   .- ) _ ( --.
+  :  '-' '-'  ;.
+ /'-.._____.-' |
+ |   |     \   |
+ \   |     /   \
+ |   \     )_.-'LGB
+ '-._/__..-'
+[new]
+ .-------..___ 
+ '-._     :_.-'
+  .- ) _ ( --. 
+ :  '-' '-'  ;.
+/'-.._____.-' |
+|   |     \   |
+\   |     /   \
+|   \     )_.-'
+^'-._/__..-'^^^

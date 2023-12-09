@@ -1,0 +1,37 @@
+[name]
+bucket
+[category]
+buildings
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+jgs
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/bucket
+[original]
+
+                ,.--'`````'--.,
+               (\'-.,_____,.-'/)
+                \\-.,_____,.-//
+                ;\\         //|
+                | \\  ___  // |
+                |  '-[___]-'  |
+                |             |
+                |             |
+                |             |
+           jgs  `'-.,_____,.-''
+[new]
+ ,.--'`````'--., 
+(\'-.,_____,.-'/)
+ \\-.,_____,.-// 
+ ;\\         //| 
+ | \\  ___  // | 
+ |  '-[___]-'  | 
+ |             | 
+ |             | 
+ |             | 
+^`'-.,_____,.-''^

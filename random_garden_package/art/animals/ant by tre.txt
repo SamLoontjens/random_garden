@@ -1,0 +1,24 @@
+[name]
+ant
+[category]
+animals
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+tre
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/ant
+[original]
+ \(")/
+ -( )-
+ /(_)\
+             tre
+[new]
+\(")/
+-( )-
+/(_)\
+^^^^^

@@ -1,0 +1,42 @@
+[name]
+christmas tree
+[category]
+flowers
+[weather]
+snow
+[rarity]
+1
+[artist]
+hjw
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/christmas
+[original]
+                .|,
+                -*-
+               '/'\`
+               /`'o\
+              /#,o'`\
+             o/`"#,`\o
+             /`o``"#,\
+            o/#,`'o'`\o
+            /o`"#,`',o\
+           o`-._`"#_.-'o
+               _|"|_
+               \=%=/   hjw
+                """
+[new]
+     .|,   - 
+*    -*-   * 
+ *  '/'\`    
+    /`'o\    
+   /#,o'`\  *
+  o/`"#,`\o  
+  /`o``"#,\  
+ o/#,`'o'`\o 
+ /o`"#,`',o\ 
+o`-._`"#_.-'o
+    _|"|_    
+\/  \=%=/ \./
+^^^^^"""^^^^^

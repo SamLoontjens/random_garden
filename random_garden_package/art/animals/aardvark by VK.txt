@@ -1,0 +1,35 @@
+[name]
+aardvark
+[category]
+animals
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+VK
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/aardvark
+[original]
+         _.---._    /\\
+      ./'       "--`\//
+    ./              o \
+   /./\  )______   \__ \
+  ./  / /\ \   | \ \  \ \
+     / /  \ \  | |\ \  \7
+      "     "    "  "        VK
+
+
+(it's an aardvark)
+[new]
+
+
+       _.---._    /\\   
+    ./'       "--`\//   
+  ./              o \   
+ /./\  )______   \__ \  
+./  / /\ \   | \ \  \ \ 
+   / /  \ \  | |\ \  \7 
+^^^^"^^^^^"^^^^"^^"^^^^^

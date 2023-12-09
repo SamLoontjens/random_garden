@@ -1,0 +1,36 @@
+[name]
+sheep
+[category]
+animals
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+Bob Allison
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/sheep
+[original]
+           __  _
+       .-.'  `; `-._  __  _
+      (_,         .-:'  `; `-._
+    ,'o"(        (_,           )
+   (__,-'      ,'o"(            )>
+      (       (__,-'            )
+       `-'._.--._(             )
+          |||  |||`-'._.--._.-'
+                     |||  |||
+
+Artist:  Bob Allison
+[new]
+        __  _                  
+    .-.'  `; `-._  __  _       
+   (_,         .-:'  `; `-._   
+ ,'o"(        (_,           )  
+(__,-'      ,'o"(            )>
+   (       (__,-'            ) 
+    `-'._.--._(             )  
+       |||  |||`-'._.--._.-'   
+^^^^^^^^^^^^^^^^^^|||^^|||^^^^^

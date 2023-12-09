@@ -1,0 +1,31 @@
+[name]
+squirrel
+[category]
+animals
+[weather]
+day
+[rarity]
+1
+[artist]
+David Lifson
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/squirrel
+[original]
+  __
+ ' )`\
+  /' |_./<
+ |  /'-.\_|
+ `\|/~\>>
+   `\_<_
+
+Squirrel by David Lifson
+[new]
+  __        
+ ' )`\      
+  /' |_./<  
+ |  /'-.\o| 
+ `\|/~\>> ` 
+   `\_<_    
+^^^^^^^^^^^^

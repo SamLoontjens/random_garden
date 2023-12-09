@@ -1,0 +1,34 @@
+[name]
+hippo
+[category]
+animals
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+unknown
+[editor]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/other-land
+[original]
+Hippo
+
+      c~~p ,---------. 
+ ,---'oo  )           \
+( O O                  )/
+ `=^='                 /
+       \    ,     .   /
+       \\  |-----'|  /
+       ||__|    |_|__|
+
+[new]
+      c~~p ,---------.    
+ ,---'oo  )           \   
+( O O                  )/ 
+ `=^='                 /  
+       \    ,     .   /   
+  @    \\  |-----'|  /    
+ \|/   ||__|    |_|__| \./
+^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,27 @@
+[name]
+ferret
+[category]
+animals
+[weather]
+night
+[rarity]
+1
+[artist]
+jgs
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/ferret
+[original]
+
+,____          (\=-,
+\ "=.`'-.______/ /^
+ `-._.-"(=====' /
+         \<'--\(
+  jgs     ^^   ^^
+[new]
+ ,____          (\=-, 
+ \ "=.`'-.______/ /^  
+  `-._.-"(=====' /    
+          \<'--\(     
+^^^._._.__ ^^___^^_..^

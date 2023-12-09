@@ -1,0 +1,41 @@
+[name]
+pansy
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+Joan G. Stark
+[editor]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/plants/other
+[original]
+Pansy by Joan G. Stark
+
+      _ _
+    _{ ' }_
+   { `.!.` }
+   ',_/Y\_,'
+     {_,_}
+       |
+     (\|  /)
+      \| //
+       |//
+jgs \\ |/  //
+^^^^^^^^^^^^^^^
+
+[new]
+   _ _    
+ _{ ' }_  
+{ `.!.` } 
+',_/Y\_,' 
+  {_,_}   
+    |     
+  (\|  /) 
+   \| //  
+    |//   
+ \\ |/  //
+^^^^^^^^^^

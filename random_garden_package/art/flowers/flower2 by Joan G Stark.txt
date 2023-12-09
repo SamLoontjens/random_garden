@@ -1,0 +1,50 @@
+[name]
+flower2
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+Joan G. Stark
+[editor]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/plants/other
+[original]
+Art by Joan G. Stark
+
+     __
+  .-/  \-.
+ (  \__/  )
+/`-./;;\.-`\
+\ _.\;;/._ /
+ (  /  \  )
+  '-\__/-'.-,
+ ,    \\ (-. )
+ |\_   ||/.-`
+ \'.\_ |;`
+  '--,\||     ,
+      `;|   _/|
+       // _/.'/
+ jgs  //_/,--'
+     ||'-`
+
+[new]
+     __        
+  .-/  \-.     
+ (  \__/  )    
+/`-./;;\.-`\   
+\ _.\;;/._ /   
+ (  /  \  )    
+  '-\__/-'.-,  
+ ,    \\ (-. ) 
+ |\_   ||/.-`  
+ \'.\_ |;`     
+  '--,\||     ,
+      `;|   _/|
+ @     // _/.'/
+ |/   //_/,--' 
+\|/  ||'-`  \|/
+^^^^^^^^^^^^^^^

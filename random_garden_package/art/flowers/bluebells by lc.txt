@@ -1,0 +1,36 @@
+[name]
+bluebells
+[category]
+flowers
+[weather]
+night
+[rarity]
+1
+[artist]
+lc
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/bluebells
+[original]
+Bluebells   
+
+                ,   __
+            ,__(^) / (^)
+            /  \~`/ _`~`
+          _(^)  |/_/,\`,
+        ,/ `~\ ,|/ \  (^)
+        (^)  ,\ |  (^)`~`
+        `~`    \|` `~`
+               ,|/lc
+            ~"^"~"^"~
+[new]
+        ,   __   
+    ,__(^) / (^) 
+    /  \~`/ _`~` 
+  _(^)  |/_/,\`, 
+,/ `~\ ,|/ \  (^)
+(^)  ,\ |  (^)`~`
+`~`    \|` `~`   
+       ,|/       
+^~"^~"^"~"^"~^~"^

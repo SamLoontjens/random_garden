@@ -1,0 +1,50 @@
+[name]
+tulip
+[category]
+flowers
+[weather]
+day
+[rarity]
+1
+[artist]
+unknown
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/flowers
+[original]
+
+                     /-_-\
+                    /  /  \
+                   /  /    \
+                   \  \    /
+                    \__\__/
+                       \\
+                       -\\    ____
+                         \\  /   /
+                   ____   \\/___/
+                   \   \ -//
+                    \___\//-
+                       -//
+                        \\
+                        //
+                       //-
+                     -//
+                     //
+                     \\
+                      \\
+unknown
+[new]
+   /-_-\         
+  /  /  \        
+ /  /    \    ~  
+ \  \    /       
+  \__\__/        
+      \\         
+ ~    -\\    ____
+        \\  /   /
+  ____   \\/___/ 
+  \   \ -//      
+   \___\//-  @   
+ \/   -//   \|/  
+^^^^^^^^^^^^^^^^^

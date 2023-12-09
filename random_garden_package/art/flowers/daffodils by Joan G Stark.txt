@@ -1,0 +1,36 @@
+[name]
+daffodils
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[rarity]
+1
+[artist]
+Joan G. Stark
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/daffodils
+[original]
+              _ _
+             (_\_)
+            (__<_{}
+             (_/_)
+            |\ |
+             \\| /|
+              \|//
+               |/
+          ,.,.,|.,.,.
+       jgs^`^`^`^`^`^
+[new]
+   _ _   
+  (_\_)  
+ (__<_{} 
+  (_/_)  
+ |\ |    
+  \\| /| 
+   \|//  
+    |/   
+ ,.,|.,. 
+`^`^`^`^`

@@ -1,0 +1,35 @@
+[name]
+toucan
+[category]
+animals
+[weather]
+rain
+[rarity]
+1
+[artist]
+jgs
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/birds
+[original]
+
+            .----.""".
+           /____/ (O )\
+             `--\_    /
+                //   \\
+               {{     }}
+         =======""===""=======
+          jgs     |||
+                  '|'
+[new]
+ .----.""".     |
+/____/ (O )\  |  
+  `--\_    /     
+     //   \\    |
+    {{     }}    
+0====""===""====0
+|\     |||     /|
+|0     '|'     0|
+|\             /|
+^^^^^^^^^^^^^^^^^

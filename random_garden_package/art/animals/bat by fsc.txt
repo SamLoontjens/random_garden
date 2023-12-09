@@ -1,0 +1,43 @@
+[name]
+bat
+[category]
+animals
+[weather]
+night
+[rarity]
+1
+[artist]
+fsc, Stephen CES Wilson
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/bat
+[original]
+                 _..__.          .__.._
+               .^"-.._ '-(\__/)-' _..-"^.
+                      '-.' oo '.-'
+                         `-..-'  fsc    
+Stephen CES Wilson
+                       .-'~~~-.
+                     .'o  oOOOo`.
+                    :~~~-.oOo   o`.
+                     `. \ ~-.  oOOo.
+                       `.; / ~.  OO:
+                       .'  ;-- `.o.'
+                      ,'  ; ~~--'~
+                      ;  ;
+_______\|/__________\\;_\\//___\|/________
+[new]
+  _..__.          .__.._    +  
+.^"-.._ '-(\__/)-' _..-"^.     
+       '-.' oo '.-'         .  
+  .       `-..-'               
+  +               .-'~~~-.     
+                .'o  oOOOo`.   
+              :~~~-.oOo   o`.  
+       .        `. \ ~-.  oOOo.
+                  `.; / ~.  OO:
+ .         +      .'  ;-- `.o.'
+                ,'  ; ~~--'~   
+                ;  ;           
+^--^..__\|/___\\;_\\//___..-^-^

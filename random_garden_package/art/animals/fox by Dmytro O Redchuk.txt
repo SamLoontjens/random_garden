@@ -1,0 +1,25 @@
+[name]
+fox
+[category]
+animals
+[weather]
+night
+[rarity]
+1
+[artist]
+Dmytro O. Redchuk
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/fox
+[original]
+  _,-=._              /|_/|
+  `-.}   `=._,.-=-._.,  @ @._,
+     `._ _,-.   )      _,.-'
+        `    G.m-"^m`m'        Dmytro O. Redchuk
+[new]
+ _,-=._              /|_/|    
+ `-.}   `=._,.-=-._.,  @ @._, 
+    `._ _,-.   )      _,.-'   
+ \/    `  _.G.m-"^m`m'__._ \/ 
+^^^^^^^^^^ ^^    ^^     ^^^^^^

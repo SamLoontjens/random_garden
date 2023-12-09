@@ -1,0 +1,36 @@
+[name]
+kettle
+[category]
+buildings
+[weather]
+snow
+[rarity]
+1
+[artist]
+fsc
+[editor]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/kettle
+[original]
+
+
+   '
+  ;
+   ;
+  `,  .--.
+    ._.-./
+    \/"""\
+    (_____)
+  --=xXXXx=--
+
+fsc
+[new]
+  '    *  - *
+ ;      -    
+  ;         *
+ `,  .--.    
+   ._.-./   -
+   \/"""\    
+   (_____)   
+^--=xXXXx=--^
