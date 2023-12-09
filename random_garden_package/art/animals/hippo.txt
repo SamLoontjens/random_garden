@@ -6,9 +6,9 @@ animals
 day, rain, night, snow
 [rarity]
 1
-[artist]
+[artists]
 unknown
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://www.asciiart.eu/animals/other-land

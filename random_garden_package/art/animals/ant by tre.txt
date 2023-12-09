@@ -6,9 +6,9 @@ animals
 day, rain, night, snow
 [rarity]
 1
-[artist]
+[artists]
 tre
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://ascii.co.uk/art/ant

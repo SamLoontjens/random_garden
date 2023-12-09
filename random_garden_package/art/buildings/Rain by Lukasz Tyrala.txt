@@ -6,9 +6,9 @@ buildings
 rain
 [rarity]
 1
-[artist]
+[artists]
 Lukasz Tyrala
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://www.asciiart.eu/nature/rains

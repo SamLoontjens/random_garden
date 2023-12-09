@@ -6,9 +6,9 @@ animals
 day
 [rarity]
 1
-[artist]
+[artists]
 sjw
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://ascii.co.uk/art/bee

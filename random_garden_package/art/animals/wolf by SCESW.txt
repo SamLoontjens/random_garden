@@ -6,9 +6,9 @@ animals
 night
 [rarity]
 1
-[artist]
+[artists]
 SCESW
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://asciiart.website/index.php?art=animals/wolves

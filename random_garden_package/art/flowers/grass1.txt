@@ -6,7 +6,7 @@ flowers
 day, rain, night, snow
 [rarity]
 1
-[artist]
+[artists]
 Sam Loontjens
 [original]
 ^

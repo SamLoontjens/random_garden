@@ -6,9 +6,9 @@ buildings
 day
 [rarity]
 1
-[artist]
+[artists]
 Corwyn Yasuo Miyagishima
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://ascii.co.uk/art/bonsai

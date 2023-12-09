@@ -5,13 +5,13 @@ import os
 
 # define ascii art class
 class AsciiArt:
-    def __init__(self, name, category, weather, rarity, artist, editor, source, original_art, new_art):
+    def __init__(self, name, category, weather, rarity, artists, editors, source, original_art, new_art):
         self.name = name
         self.category = category
         self.weather = weather
         self.rarity = rarity
-        self.artist = artist
-        self.editor = editor
+        self.artists = artists
+        self.editors = editors if editors else []
         self.source = source
         self.original_art = original_art
         self.new_art = new_art
@@ -21,7 +21,7 @@ class AsciiArt:
         with open(file_path, 'r') as file:
             lines = file.readlines()
 
-        name = category = weather = rarity = artist = editor = source = None
+        name = category = weather = rarity = artists = editors = source = None
         current_section = None
         original_art_lines = []
         new_art_lines = []
@@ -30,30 +30,31 @@ class AsciiArt:
         for line in lines:
             if line.startswith('[') and line.endswith(']'):
                 current_section = line[1:-1].lower()
-                if current_section == 'new':
-                    is_new_art = True
-            elif current_section == 'name':
-                name = line
+                is_new_art = current_section == 'new'
+                continue
+
+            if current_section == 'name':
+                name = line.strip()
             elif current_section == 'category':
-                category = line
+                category = line.strip()
             elif current_section == 'weather':
-                weather = line.split(', ')
+                weather = line.strip().split(', ')
             elif current_section == 'rarity':
-                rarity = int(line)
-            elif current_section == 'artist':
-                artist = line.split(', ')
-            elif current_section == 'editor':
-                editor = line
+                rarity = int(line.strip())
+            elif current_section == 'artists':
+                artists = [a.strip() for a in line.split(',')]
+            elif current_section == 'editors':
+                editors = [e.strip() for e in line.split(',')]
             elif current_section == 'retrieved from':
-                source = line
+                source = line.strip()
             elif current_section == 'original' and not is_new_art:
                 original_art_lines.append(line)
-            elif current_section == 'new':
+            elif is_new_art:
                 new_art_lines.append(line)
 
-        original_art = '\n'.join(original_art_lines)
-        new_art = '\n'.join(new_art_lines)
-        return AsciiArt(name, category, weather, rarity, artist, editor, source, original_art, new_art)
+        original_art = ''.join(original_art_lines)
+        new_art = ''.join(new_art_lines)
+        return AsciiArt(name, category, weather, rarity, artists, editors, source, original_art, new_art)
 
     def __str__(self):
         return self.new_art if self.new_art else self.original_art
@@ -110,7 +111,6 @@ def random_garden(seed = None,
 
   # Load and filter art by weather
   all_flowers = load_ascii_art('art/flowers/')
-  print(len(all_flowers))
   flowers = filter_art_by_weather(all_flowers, weather)
 
   all_animals = load_ascii_art('art/animals/')
@@ -140,8 +140,8 @@ def random_garden(seed = None,
   selected_art = []
   drawing = [''] * draw_height
   draw_width_left = draw_width
-  artists = set()
-  editors = set()
+  used_artists = set()
+  used_editors = set()
 
   # drawing loop: loop until no width left
   while draw_width_left > 0:
@@ -246,9 +246,11 @@ def random_garden(seed = None,
     draw_width_left = draw_width_left - width
     print(f"draw width left: {draw_width_left}\n") if info >= 3 else None
 
-    # Add artist and editor to the respective sets
-    artists.add(art_obj.artist)
-    editors.add(art_obj.editor)
+    # Add artists and editors to the respective sets
+    for artist in art_obj.artists:
+      used_artists.add(artist)
+    for editor in art_obj.editors:
+      used_editors.add(editor)
 
   # print selected art
   print(f"Selected art: {selected_art}") if info >= 2 else None
@@ -259,12 +261,12 @@ def random_garden(seed = None,
     drawing_string = drawing_string + row + ' \n'
 
   # Convert sets to lists and sort (optional)
-  unique_artists = sorted(list(artists))
-  #unique_editors = sorted(list(editors))
+  unique_artists = sorted(list(used_artists))
+  unique_editors = sorted(list(used_editors))
 
   if contributors:
     # Append artists and editors to the drawing string
     drawing_string += '\n\nArtists:\n' + ', '.join(unique_artists)
-    #drawing_string += '\n\nEditors:\n' + ', '.join(unique_editors)
+    drawing_string += '\n\nEditors:\n' + ', '.join(unique_editors)
 
   return drawing_string

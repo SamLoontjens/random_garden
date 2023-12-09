@@ -6,9 +6,9 @@ animals
 day
 [rarity]
 1
-[artist]
+[artists]
 Morfina, jjs
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://www.asciiart.eu/animals/camels

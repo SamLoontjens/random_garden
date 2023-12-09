@@ -6,9 +6,9 @@ animals
 day, rain, night, snow
 [rarity]
 1
-[artist]
+[artists]
 Hayley Jane Wakenshaw
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://www.asciiart.eu/animals/birds-water

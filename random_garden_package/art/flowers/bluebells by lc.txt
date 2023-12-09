@@ -6,9 +6,9 @@ flowers
 night
 [rarity]
 1
-[artist]
+[artists]
 lc
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://ascii.co.uk/art/bluebells

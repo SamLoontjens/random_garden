@@ -6,9 +6,9 @@ animals
 day, rain, night, snow
 [rarity]
 1
-[artist]
+[artists]
 Joan G. Stark
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://www.asciiart.eu/plants/flowers

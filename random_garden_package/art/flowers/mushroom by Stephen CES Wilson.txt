@@ -6,9 +6,9 @@ flowers
 night
 [rarity]
 1
-[artist]
+[artists]
 Stephen CES Wilson
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://www.asciiart.eu/plants/mushroom

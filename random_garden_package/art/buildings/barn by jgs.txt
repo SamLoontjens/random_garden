@@ -6,9 +6,9 @@ buildings
 day
 [rarity]
 1
-[artist]
+[artists]
 jgs
-[editor]
+[editors]
 Sam Loontjens
 [retrieved from]
 https://ascii.co.uk/art/barn
