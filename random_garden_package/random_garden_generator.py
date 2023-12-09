@@ -30,6 +30,8 @@ class AsciiArt:
         is_new_art = False
         
         for line in lines:
+            line = line.rstrip('\n')
+
             if line.startswith('[') and line.endswith(']'):
                 current_section = line[1:-1].lower()
                 is_new_art = current_section == 'new'
@@ -52,15 +54,15 @@ class AsciiArt:
             elif current_section == 'retrieved from':
                 source = line.strip()
             elif current_section == 'original' and not is_new_art:
-                original_art_lines.append(line)
+                original_art_lines.append(line + '\n')
             elif is_new_art:
-                new_art_lines.append(line)
+                new_art_lines.append(line + '\n')
 
         original_art = ''.join(original_art_lines)
         new_art = ''.join(new_art_lines)
         print(f"Original Art: {original_art[:30]}...")  # Debugging line
         print(f"New Art: {new_art[:30]}...")  # Debugging line
-        
+
         return AsciiArt(name, category, weather, rarity, artists, editors, source, original_art, new_art)
 
     def __str__(self):
