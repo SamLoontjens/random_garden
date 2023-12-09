@@ -28,7 +28,6 @@ class AsciiArt:
         is_new_art = False
 
         for line in lines:
-            line = line.strip()
             if line.startswith('[') and line.endswith(']'):
                 current_section = line[1:-1].lower()
                 if current_section == 'new':
