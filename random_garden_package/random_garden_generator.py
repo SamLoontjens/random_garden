@@ -41,7 +41,6 @@ class AsciiArt:
 
             if current_section == 'name':
                 name = line.strip()
-                print(f"Name: {name}")
             elif current_section == 'category':
                 category = line.strip()
             elif current_section == 'weather':
