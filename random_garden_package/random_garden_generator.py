@@ -260,7 +260,7 @@ def random_garden(seed = None,
 
   # Convert sets to lists and sort (optional)
   unique_artists = sorted(list(artists))
-  unique_editors = sorted(list(editors))
+  #unique_editors = sorted(list(editors))
 
   if contributors:
     # Append artists and editors to the drawing string
