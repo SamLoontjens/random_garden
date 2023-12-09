@@ -265,6 +265,6 @@ def random_garden(seed = None,
   if contributors:
     # Append artists and editors to the drawing string
     drawing_string += '\n\nArtists:\n' + ', '.join(unique_artists)
-    drawing_string += '\n\nEditors:\n' + ', '.join(unique_editors)
+    #drawing_string += '\n\nEditors:\n' + ', '.join(unique_editors)
 
   return drawing_string
