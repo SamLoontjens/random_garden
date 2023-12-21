@@ -1,0 +1,17 @@
+[name]
+
+[category]
+
+[weather]
+
+[rarity]
+1
+[artists]
+
+[editors]
+Sam Loontjens
+[retrieved from]
+
+[original]
+
+[new]

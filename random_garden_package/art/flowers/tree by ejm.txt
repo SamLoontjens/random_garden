@@ -1,0 +1,48 @@
+[name]
+apple tree
+[category]
+flowers
+[weather]
+day
+[rarity]
+1
+[artists]
+ejm
+[editors]
+Sam Loontjens
+[retrieved from]
+https://asciiart.website/index.php?art=plants/trees
+[original]
+           \/ |    |/
+        \/ / \||/  /_/___/_
+         \/   |/ \/
+    _\__\_\   |  /_____/_
+           \  | /          /
+  __ _-----`  |{,-----------~
+            \ }{
+             }{{
+             }}{
+             {{}
+       , -=-~{ .-^- _
+  ejm        `}
+              {
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=plants/trees
+
+[new]
+          # | #        ~   
+  ~    # \/ |    |/#       
+      \/ / \||/# /_/___/_  
+    # #\/ # |/ \/ o  #     
+  _\,_\_\  #|  /_____/_ #  
+  # o  # \  |#/ #  #     /#
+#_ _-----`  |{,---#--,----~
+      #   \ }{       o     
+           }{{             
+           }}{             
+  @        {{}          @  
+ \|/ , -=-~{ .-^- _    \|/ 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^

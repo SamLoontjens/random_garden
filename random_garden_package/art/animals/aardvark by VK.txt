@@ -24,8 +24,6 @@ https://ascii.co.uk/art/aardvark
 
 (it's an aardvark)
 [new]
-
-
        _.---._    /\\   
     ./'       "--`\//   
   ./              o \   

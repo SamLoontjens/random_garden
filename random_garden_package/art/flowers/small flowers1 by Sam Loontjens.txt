@@ -1,0 +1,15 @@
+[name]
+small flowers1
+[category]
+flowers
+[weather]
+rain
+[rarity]
+1
+[artists]
+Sam Loontjens
+[original]
+      8 
+ 8  8\|/ 8
+\|/\|/|/ |/
+^^^^^^^^^^^

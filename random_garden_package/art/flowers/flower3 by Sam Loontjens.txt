@@ -1,0 +1,18 @@
+[name]
+flower3
+[category]
+flowers
+[weather]
+day, night, rain, snow
+[rarity]
+1
+[artists]
+Sam Loontjens
+[original]
+   _   
+ _( )_ 
+(_}X{_)
+  (_)  
+   |/` 
+ `\| / 
+^^^^^^^

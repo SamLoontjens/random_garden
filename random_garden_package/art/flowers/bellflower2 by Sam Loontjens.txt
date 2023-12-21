@@ -1,0 +1,19 @@
+[name]
+bellflower2
+[category]
+flowers
+[weather]
+day, night
+[rarity]
+1
+[artists]
+Sam Loontjens
+[original]
+        .^_  
+  _^.  / ! ! 
+ ! ! \/ ''T''
+''T'' \.^_   
+      / ! !  
+    \/ ''T'' 
+\\/  \     \/
+^^^^^^V^^^^^^

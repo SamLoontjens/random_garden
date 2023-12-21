@@ -1,0 +1,15 @@
+[name]
+mushroom
+[category]
+flowers
+[weather]
+day, night, rain, snow
+[rarity]
+1
+[artists]
+Sam Loontjens
+[original]
+   
+ @ 
+\|/
+^^^

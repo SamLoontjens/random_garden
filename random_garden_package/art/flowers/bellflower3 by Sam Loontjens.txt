@@ -1,0 +1,24 @@
+[name]
+bellflower3
+[category]
+flowers
+[weather]
+day, night, rain, snow
+[rarity]
+1
+[artists]
+Sam Loontjens
+[original]
+          .-_     
+  _-.    / {}}    
+ {}} `\ /  `"`    
+ `"`  `T.-_       
+       | {}}  .-_ 
+  _-. /  `"` | {}}
+ {}} T  _-. /  `"`
+ `"` | {}} T.-_   
+     `\`"`/  {}}  
+       \ /   `"`  
+  #     T         
+ \|//   |     \./ 
+^^^^^^^^V^^^^^^^^^

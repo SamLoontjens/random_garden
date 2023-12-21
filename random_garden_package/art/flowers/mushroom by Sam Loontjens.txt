@@ -1,0 +1,17 @@
+[name]
+mushroom
+[category]
+flowers
+[weather]
+night
+[rarity]
+1
+[artists]
+Sam Loontjens
+[original]
+      ,',     
+    ,',',',   
+  ,   `|`  ,  
+,',',  | ,',',
+ `|    |  `|  
+^^^^^^^^^^^^^^
