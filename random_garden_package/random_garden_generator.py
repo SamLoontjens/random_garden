@@ -102,7 +102,8 @@ def random_garden(seed = None,
   # info 0: no info, 1: only seed, 2: basic info, 3: all info
   # weather 'day', 'night', 'rain', 'snow'
   # make sure all flowers are square, and the top row is used for width
-
+  print('stifz')
+  
   # print draw dimentions
   print(f"\nThe selected draw height is:       {draw_height}") if info >= 2 else None
   print(f"The selected draw width is:        {draw_width}\n") if info >= 2 else None
