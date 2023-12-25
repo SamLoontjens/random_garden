@@ -123,7 +123,9 @@ def random_garden(seed = None,
 
   # Load and filter art by weather
   all_flowers = load_ascii_art('art/flowers/')
+  print(len(all_flowers))
   flowers = filter_art_by_weather(all_flowers, weather)
+  print(len(flowers))
 
   all_animals = load_ascii_art('art/animals/')
   animals = filter_art_by_weather(all_animals, weather)
@@ -152,6 +154,7 @@ def random_garden(seed = None,
 
     # Select eligible flowers, animals, and buildings
     eligible_flowers = select_eligible_objects(flowers, draw_height, draw_width_left)
+    print(len(eligible_flowers))
     eligible_animals = select_eligible_objects(animals, draw_height, draw_width_left)
     eligible_buildings = select_eligible_objects(buildings, draw_height, draw_width_left)
 
