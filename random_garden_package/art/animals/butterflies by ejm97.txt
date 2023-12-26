@@ -4,6 +4,8 @@ butterflies
 animals
 [weather]
 day
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]

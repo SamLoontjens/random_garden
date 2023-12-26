@@ -4,6 +4,8 @@ spider and owl
 animals
 [weather]
 night
+[biome]
+taiga, temperate, grassland
 [rarity]
 1
 [artists]

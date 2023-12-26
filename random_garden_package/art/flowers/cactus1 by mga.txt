@@ -3,7 +3,9 @@ cactus1
 [category]
 flowers
 [weather]
-day
+day, night, rain, snow
+[biome]
+desert
 [rarity]
 1
 [artists]
@@ -40,6 +42,6 @@ https://ascii.co.uk/art/cactus
   \____  |      
    |   | |-   ~ 
        | |      
-  o   -| |      
- \|/   |_|  \./ 
-^^^^^^^^^^^^^^^^
+      -| |      
+   \|/ |_| \./  
+_."-^^^^^^^^"-._

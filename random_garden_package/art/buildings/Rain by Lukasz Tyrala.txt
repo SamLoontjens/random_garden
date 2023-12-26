@@ -4,6 +4,8 @@ rain
 buildings
 [weather]
 rain
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]

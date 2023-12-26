@@ -4,6 +4,8 @@ barn
 buildings
 [weather]
 day
+[biome]
+taiga, temperate, grassland
 [rarity]
 1
 [artists]

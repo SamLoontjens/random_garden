@@ -4,6 +4,8 @@ frog
 animals
 [weather]
 rain
+[biome]
+tundra, taiga, temperate, grassland, steppe, savanna, tropical, swamp, lake
 [rarity]
 1
 [artists]

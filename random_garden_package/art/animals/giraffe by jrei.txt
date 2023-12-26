@@ -4,6 +4,8 @@ giraffe
 animals
 [weather]
 day
+[biome]
+savanna
 [rarity]
 1
 [artists]

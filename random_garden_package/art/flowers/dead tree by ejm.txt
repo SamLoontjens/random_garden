@@ -3,7 +3,9 @@ dead tree
 [category]
 flowers
 [weather]
-snow
+day, night, rain, snow
+[biome]
+taiga, temperate
 [rarity]
 1
 [artists]
@@ -33,9 +35,9 @@ This ASCII pic can be found at
 https://asciiart.website/index.php?art=plants/trees
 
 [new]
-         \/ |    |/   *    
-  *   \/ / \||/  /_/___/_  
-       \/   |/ \/        * 
+         \/ |    |/        
+      \/ / \||/  /_/___/_  
+       \/   |/ \/          
   _\__\_\   |  /_____/_    
          \  | /          / 
 __ _-----`  |{,-----------~

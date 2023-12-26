@@ -4,6 +4,8 @@ panter
 animals
 [weather]
 night
+[biome]
+tropical, swamp
 [rarity]
 1
 [artists]

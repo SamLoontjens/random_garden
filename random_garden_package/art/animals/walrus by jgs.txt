@@ -1,0 +1,48 @@
+[name]
+walrus
+[category]
+animals
+[weather]
+day, rain, night, snow
+[biome]
+ice
+[rarity]
+1
+[artists]
+jgs
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/walrus
+[original]
+               ___
+            .-9 9 `\
+          =(:(::)=  ;
+            ||||     \
+            ||||      `-.
+           ,\|\|         `,
+          /                \
+         ;                  `'---.,
+         |                         `\
+         ;                     /     |
+         \                    |      /
+  jgs     )           \  __,.--\    /
+       .-' \,..._\     \`   .-'  .-'
+      `-=``      `:    |   /-/-/`
+                   `.__/
+[new]
+               ___                    
+            .-9 9 `\                  
+          =(:(::)=  ;                 
+            ||||     \                
+            ||||      `-.             
+           ,\|\|         `,           
+          /                \          
+         ;                  `'---.,   
+         |                         `\ 
+         ;                     /     |
+         \                    |      /
+          )           \  __,.--\    / 
+       .-' \,..._\     \`   .-'  .-'  
+   _. `-=``      `:    |   /-/-/`.._  
+--'                `.__/            '-

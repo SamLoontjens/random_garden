@@ -3,7 +3,9 @@ penguin
 [category]
 animals
 [weather]
-snow
+day, night, rain, snow
+[biome]
+ice, tundra
 [rarity]
 1
 [artists]
@@ -20,10 +22,10 @@ https://ascii.co.uk/art/penguins
                         '|  ||
                snd       _\_):,_
 [new]
--*  __   * -
- -=(o '.  - 
+   __       
+-=(o '.     
    '.-.\    
-*  /|  \\  *
+   /|  \\   
    '|  ||   
-  * _\_):,_ 
+    _\_):,_ 
 ^^^^^^^^^^^^

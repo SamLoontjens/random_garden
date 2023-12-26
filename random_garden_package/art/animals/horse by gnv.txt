@@ -4,6 +4,8 @@ horse
 animals
 [weather]
 day
+[biome]
+grassland, steppe
 [rarity]
 1
 [artists]

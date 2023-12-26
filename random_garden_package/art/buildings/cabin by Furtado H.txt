@@ -4,6 +4,8 @@ cabin
 buildings
 [weather]
 snow
+[biome]
+tundra, taiga
 [rarity]
 1
 [artists]

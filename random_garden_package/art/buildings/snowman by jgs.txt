@@ -4,6 +4,8 @@ snowman
 buildings
 [weather]
 snow
+[biome]
+tundra, taiga, temperate, grassland
 [rarity]
 1
 [artists]

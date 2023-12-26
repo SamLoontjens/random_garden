@@ -1,0 +1,18 @@
+[name]
+wave2
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[biome]
+ocean
+[rarity]
+1
+[artists]
+cjr
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/wave
+[original]
+~-.,_,.-'``'-.,_,.-~

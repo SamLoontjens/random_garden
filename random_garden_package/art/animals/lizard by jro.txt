@@ -3,7 +3,9 @@ lizard
 [category]
 animals
 [weather]
-rain
+day, night, rain, snow
+[biome]
+desert, steppe, savanna, tropical, swamp
 [rarity]
 1
 [artists]
@@ -31,9 +33,9 @@ ___.....---"""        .       ""--..____
           |/\/\|    |/\/\|
 jro
 [new]
-|'    _.--._   '   /| 
+     _.--._       /| 
    .'()..()`.    / / 
-  ( `-.__.-' )  ( ( '
+  ( `-.__.-' )  ( (  
    \        /    \ \ 
     \      /      ) )
   .' -.__.- `.-.-'_.'

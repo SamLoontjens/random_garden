@@ -4,6 +4,8 @@ small flowers2
 flowers
 [weather]
 day, night, rain, snow
+[biome]
+taiga, temperate, grassland, steppe, tropical, swamp
 [rarity]
 1
 [artists]

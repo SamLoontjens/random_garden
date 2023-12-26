@@ -4,6 +4,8 @@ aardvark
 animals
 [weather]
 day, rain, night, snow
+[biome]
+grassland, steppe, savanna, tropical
 [rarity]
 1
 [artists]

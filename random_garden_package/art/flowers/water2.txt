@@ -1,0 +1,12 @@
+[name]
+water2
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[biome]
+swamp, mangrove, lake, ocean
+[rarity]
+1
+[original]
+~~~

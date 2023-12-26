@@ -3,7 +3,9 @@ apple tree
 [category]
 flowers
 [weather]
-day
+day, night, rain, snow
+[biome]
+temperate
 [rarity]
 1
 [artists]
@@ -33,8 +35,8 @@ This ASCII pic can be found at
 https://asciiart.website/index.php?art=plants/trees
 
 [new]
-          # | #        ~   
-  ~    # \/ |    |/#       
+          # | #            
+       # \/ |    |/#       
       \/ / \||/# /_/___/_  
     # #\/ # |/ \/ o  #     
   _\,_\_\  #|  /_____/_ #  

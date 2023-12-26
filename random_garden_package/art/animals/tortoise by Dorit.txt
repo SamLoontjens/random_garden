@@ -1,9 +1,11 @@
 [name]
-turtle
+tortoise
 [category]
 animals
 [weather]
-rain
+day, night
+[biome]
+grassland, desert
 [rarity]
 1
 [artists]
@@ -20,9 +22,9 @@ From: Dorit
   \ \_/_\_/>
   /_/  /_/
 [new]
-'      ___ '| 
-  ,,  // \\  '
- (_,\/ \_/ \  
-   \ \_/_\_/> 
-'  /_/  /_/   
-^^^^^^^^^^^^^^
+        _ _ _     
+  ,,  // \ / \\   
+ (_ \/ \_/ \ / \  
+   \_\_/_\_/_\_/> 
+     /_/     \_\  
+.^^^^^^^^^^^^^^^^.

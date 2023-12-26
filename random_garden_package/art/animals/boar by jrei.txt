@@ -4,6 +4,8 @@ boar
 animals
 [weather]
 day, rain, night, snow
+[biome]
+taiga, temperate, grassland, desert, steppe, savanna, tropical
 [rarity]
 1
 [artists]

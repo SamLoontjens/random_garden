@@ -3,7 +3,9 @@ bluebells
 [category]
 flowers
 [weather]
-night
+day, night, rain
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]

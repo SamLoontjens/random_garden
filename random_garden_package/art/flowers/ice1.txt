@@ -1,0 +1,12 @@
+[name]
+ice1
+[category]
+flowers
+[weather]
+day, night, rain, snow
+[biome]
+ice
+[rarity]
+1
+[original]
+-

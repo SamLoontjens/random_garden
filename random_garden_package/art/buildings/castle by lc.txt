@@ -4,6 +4,8 @@ castle
 buildings
 [weather]
 day
+[biome]
+grassland
 [rarity]
 1
 [artists]

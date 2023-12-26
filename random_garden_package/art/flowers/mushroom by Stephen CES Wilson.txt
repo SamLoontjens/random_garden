@@ -4,6 +4,8 @@ mushroom
 flowers
 [weather]
 night
+[biome]
+taiga, temperate, tropical, swamp
 [rarity]
 1
 [artists]

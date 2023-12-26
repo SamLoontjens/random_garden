@@ -4,6 +4,8 @@ cow
 animals
 [weather]
 day, rain, night, snow
+[biome]
+grassland
 [rarity]
 1
 [artists]

@@ -4,6 +4,8 @@ bat
 animals
 [weather]
 night
+[biome]
+taiga, temperate, grassland, desert, steppe, savanna, tropical, swamp
 [rarity]
 1
 [artists]

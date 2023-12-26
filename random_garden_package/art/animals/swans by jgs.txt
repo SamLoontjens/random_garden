@@ -3,7 +3,9 @@ swans
 [category]
 animals
 [weather]
-rain
+day, night, rain, snow
+[biome]
+grassland, swamp, lake
 [rarity]
 1
 [artists]

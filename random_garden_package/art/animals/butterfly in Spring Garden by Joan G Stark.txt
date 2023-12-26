@@ -4,6 +4,8 @@ butterfly in Spring Garden
 animals
 [weather]
 day, rain, night, snow
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]

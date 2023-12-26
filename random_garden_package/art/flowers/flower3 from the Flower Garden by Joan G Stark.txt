@@ -3,7 +3,9 @@ flower 3 from the Flower Garden
 [category]
 flowers
 [weather]
-day, rain, night, snow
+day, night, rain, snow
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]

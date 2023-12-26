@@ -4,6 +4,8 @@ basket
 buildings
 [weather]
 day, rain, night, snow
+[biome]
+taiga, temperate, grassland
 [rarity]
 1
 [artists]

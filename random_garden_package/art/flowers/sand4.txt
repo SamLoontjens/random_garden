@@ -1,0 +1,13 @@
+[name]
+sand4
+[category]
+flowers
+[weather]
+day, night, rain, snow
+[biome]
+desert
+[rarity]
+1
+[original]
+              ____...---...___          
+___.....---"""        .       ""--..____

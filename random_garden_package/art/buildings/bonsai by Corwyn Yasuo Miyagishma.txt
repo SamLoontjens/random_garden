@@ -4,6 +4,8 @@ bonsai
 buildings
 [weather]
 day
+[biome]
+temperate
 [rarity]
 1
 [artists]

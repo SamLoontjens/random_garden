@@ -4,6 +4,8 @@ chicken
 animals
 [weather]
 day, rain, night, snow
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]
@@ -19,9 +21,9 @@ https://ascii.co.uk/art/chicken
  \_/_)
   _|_                Chicken      -Neil Smith-
 [new]
-    \\ 
-    (o>
- \\_//)
-  \_/_)
-   _|_ 
+    \\  
+    (o> 
+ \\_//) 
+  \_/_) 
+   _|_  
 ^.^^^^^^

@@ -4,6 +4,8 @@ rhino
 animals
 [weather]
 day
+[biome]
+desert, steppe, savanna, tropical
 [rarity]
 1
 [artists]

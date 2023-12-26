@@ -4,6 +4,8 @@ mushroom house
 buildings
 [weather]
 night
+[biome]
+swamp
 [rarity]
 1
 [artists]

@@ -3,7 +3,9 @@ yak
 [category]
 animals
 [weather]
-snow
+day, night, rain, snow
+[biome]
+tundra, taiga
 [rarity]
 1
 [artists]
@@ -26,8 +28,8 @@ https://ascii.co.uk/art/yak
         !!  ! ! \( \(  !!!|/!  |/!
     mic & dwb  /_(/_(    /_(  /_(    bison yakified by ejm
 [new]
- -           _.-````'-,_         -*  
-    *    ,-'`           `'-.,_      -
+             _.-````'-,_             
+         ,-'`           `'-.,_       
  /)     (\                   '``-.   
 ( ( .,-') )                      ``  
  \ '   (_/                        !! 

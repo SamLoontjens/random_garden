@@ -3,7 +3,9 @@ kiwi bird
 [category]
 animals
 [weather]
-snow
+day
+[biome]
+temperate
 [rarity]
 1
 [artists]

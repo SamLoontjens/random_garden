@@ -4,6 +4,8 @@ armadillo 1
 animals
 [weather]
 day, rain, night, snow
+[biome]
+desert, steppe, tropical
 [rarity]
 1
 [artists]
@@ -32,4 +34,4 @@ https://ascii.co.uk/art/armadillo
        /:'////' `::>/|/  
      .',  ||||   `/( e\  
  -==~-'`-Xm````-mr' `-_\ 
-^^^^^^^^^^^^^^^^^^^^^^^^^
+_.-^-^--^^^^^^^^^^^^--.__

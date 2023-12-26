@@ -4,6 +4,8 @@ aligator
 animals
 [weather]
 day, rain, night, snow
+[biome]
+swamp, mangrove, lake
 [rarity]
 1
 [artists]

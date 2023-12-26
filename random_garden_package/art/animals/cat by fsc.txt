@@ -4,6 +4,8 @@ cat
 animals
 [weather]
 night
+[biome]
+temperate, grassland, steppe, savanna, swamp
 [rarity]
 1
 [artists]
@@ -20,7 +22,7 @@ https://ascii.co.uk/art/cat
       \ i _..._ /,
       {_;/   {_//  fsc
 [new]
-         .   +     _.. 
+                   _.. 
   /}_{\           /.-' 
  ( a a )-.___...-'/    
  ==._.==         ;     

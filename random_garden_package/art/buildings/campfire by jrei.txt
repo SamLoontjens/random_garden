@@ -4,6 +4,8 @@ campfire
 buildings
 [weather]
 night
+[biome]
+tundra, taiga, temperate, grassland, desert, steppe, savanna, tropical
 [rarity]
 1
 [artists]

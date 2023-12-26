@@ -4,6 +4,8 @@ bird in tree with spiderweb
 animal
 [weather]
 night
+[biome]
+temperate, tropical, swamp
 [rarity]
 1
 [artists]

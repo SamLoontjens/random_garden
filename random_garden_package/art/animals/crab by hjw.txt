@@ -3,7 +3,9 @@ crab
 [category]
 animals
 [weather]
-rain
+day, night, rain, snow
+[biome]
+swamp, mangrove, lake, ocean
 [rarity]
 1
 [artists]
@@ -22,12 +24,11 @@ https://ascii.co.uk/art/crab
                   .==')___(`==.    hjw
                  ' .='     `=.
 [new]
-'  __  '    __  |
+   __       __   
   / <`     '> \  
  (  / @   @ \  ) 
   \(_ _\_/_ _)/  
 (\ `-/     \-' /)
  "===\     /===" 
   .==')___(`==.  
- ' .='     `=. \/
 ^~^~^~^~^~^~^~^~^

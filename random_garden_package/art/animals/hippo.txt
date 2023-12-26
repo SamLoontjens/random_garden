@@ -4,6 +4,8 @@ hippo
 animals
 [weather]
 day, rain, night, snow
+[biome]
+savanna, tropical, swamp
 [rarity]
 1
 [artists]

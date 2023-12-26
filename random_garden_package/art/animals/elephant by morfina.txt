@@ -4,6 +4,8 @@ elephant
 animals
 [weather]
 rain
+[biome]
+steppe, savanna, tropical
 [rarity]
 1
 [artists]

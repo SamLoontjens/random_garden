@@ -4,6 +4,8 @@ ferret
 animals
 [weather]
 night
+[biome]
+temperate, grassland, desert, steppe
 [rarity]
 1
 [artists]

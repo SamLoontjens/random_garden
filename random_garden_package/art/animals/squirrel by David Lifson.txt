@@ -3,7 +3,9 @@ squirrel
 [category]
 animals
 [weather]
-day
+day, night, rain, snow
+[biome]
+taiga, temperate
 [rarity]
 1
 [artists]

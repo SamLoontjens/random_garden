@@ -3,7 +3,9 @@ toucan
 [category]
 animals
 [weather]
-rain
+day, night, rain
+[biome]
+tropical
 [rarity]
 1
 [artists]
@@ -23,10 +25,10 @@ https://ascii.co.uk/art/birds
           jgs     |||
                   '|'
 [new]
- .----.""".     |
-/____/ (O )\  |  
+ .----.""".      
+/____/ (O )\     
   `--\_    /     
-     //   \\    |
+     //   \\     
     {{     }}    
 0====""===""====0
 |\     |||     /|

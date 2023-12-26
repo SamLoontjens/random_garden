@@ -4,6 +4,8 @@ hustinettenbaer
 animals
 [weather]
 day, rain, night, snow
+[biome]
+tundra, taiga
 [rarity]
 1
 [artists]

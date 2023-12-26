@@ -3,13 +3,15 @@ small flowers1
 [category]
 flowers
 [weather]
-rain
+day, night, rain, snow
+[biome]
+taiga, temperate, grassland, steppe, tropical, swamp
 [rarity]
 1
 [artists]
 Sam Loontjens
 [original]
-      8 
- 8  8\|/ 8
+      8    
+ 8  8\|/ 8 
 \|/\|/|/ |/
 ^^^^^^^^^^^

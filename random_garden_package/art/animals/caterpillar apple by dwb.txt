@@ -4,6 +4,8 @@ caterpillar
 animals
 [weather]
 day
+[biome]
+temperate
 [rarity]
 1
 [artists]

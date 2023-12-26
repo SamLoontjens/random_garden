@@ -4,6 +4,8 @@ bee and rose3
 animals
 [weather]
 day
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]

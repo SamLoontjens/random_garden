@@ -4,6 +4,8 @@ owl
 animals
 [weather]
 snow
+[biome]
+taiga, temperate
 [rarity]
 1
 [artists]

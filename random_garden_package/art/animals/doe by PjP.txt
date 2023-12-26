@@ -3,7 +3,9 @@ doe
 [category]
 animals
 [weather]
-night
+day, night, rain, snow
+[biome]
+tundra, taiga, temperate, grassland, desert, steppe, savanna, tropical, swamp
 [rarity]
 1
 [artists]

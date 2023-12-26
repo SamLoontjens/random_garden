@@ -5,10 +5,15 @@ import os
 
 # define ascii art class
 class AsciiArt:
-  def __init__(self, name, category, weather, rarity, artists, editors, source, original_art, new_art):
+  # Define available weathers and biomes
+  available_weathers = {'day', 'night', 'rain', 'snow'}
+  available_biomes = {'ice', 'tundra', 'taiga', 'temperate', 'grassland', 'desert', 'steppe', 'savanna', 'tropical', 'swamp', 'mangrove', 'lake', 'ocean'}
+
+  def __init__(self, name, category, weather, biome, rarity, artists, editors, source, original_art, new_art):
     self.name = name
     self.category = category
     self.weather = weather
+    self.biome = biome
     self.rarity = rarity
     self.artists = artists if artists else []
     self.editors = editors if editors else []
@@ -16,6 +21,7 @@ class AsciiArt:
     self.original_art = original_art
     self.new_art = new_art
     self.art_lines, self.height, self.width = self._split_art_and_get_dimensions()
+    self.validate_attributes()
 
   @staticmethod
   def load_from_file(file_path):
@@ -24,6 +30,7 @@ class AsciiArt:
 
     name = category = source = None
     weather = []
+    biome = []
     artists = []
     editors = []
     rarity = 1
@@ -46,6 +53,8 @@ class AsciiArt:
         category = line.strip()
       elif current_section == 'weather':
         weather = line.strip().split(', ') if line.strip() else []
+      elif current_section == 'biome':
+        biome = line.strip().split(', ') if line.strip() else []
       elif current_section == 'rarity':
         rarity = int(line.strip())
       elif current_section == 'artists':
@@ -62,13 +71,41 @@ class AsciiArt:
     original_art = ''.join(original_art_lines)
     new_art = ''.join(new_art_lines)
 
-    return AsciiArt(name, category, weather, rarity, artists, editors, source, original_art, new_art)
+    return AsciiArt(name, category, weather, biome, rarity, artists, editors, source, original_art, new_art)
 
   def _split_art_and_get_dimensions(self):
+    # Split new art into lines or if there is no new art split original art into lines
     art_lines = self.new_art.split('\n') if self.new_art else self.original_art.split('\n')
+    
+    # Return empty values if there's no art
+    if not art_lines:
+      raise ValueError(f"No art found in art object: {self.name}")
+    
+    # Remove the last line because it is empty
+    deleted_line = art_lines.pop()
+    assert deleted_line == '', f'deleted line should be empty for art object: {self.name}'
+
+    # Get height and width of art
     height = len(art_lines)
     width = len(art_lines[0]) if art_lines else 0
+
+    # Check if all lines have the same width
+    for line in art_lines:
+      if len(line) != width:
+        raise ValueError(f"Inconsistent line width in art object: {self.name}")
+
     return art_lines, height, width
+
+  def validate_attributes(self):
+    # Validate weather
+    for w in self.weather:
+      if w not in self.available_weathers:
+        raise ValueError(f"Invalid weather '{w}' in art '{self.name}'. Valid options: {', '.join(self.available_weathers)}")
+
+    # Validate biome
+    for b in self.biome:
+      if b not in self.available_biomes:
+        raise ValueError(f"Invalid biome '{b}' in art '{self.name}'. Valid options: {', '.join(self.available_biomes)}")
 
   def __str__(self):
     return self.new_art if self.new_art else self.original_art
@@ -87,23 +124,22 @@ def load_ascii_art(folder_name='art/flowers/'):
       art = AsciiArt.load_from_file(file_path)
       art_list.append(art)
 
-    return art_list
+  return art_list
 
 # Generates a random garden
 def random_garden(seed = None,
                   draw_height = 26, 
                   draw_width = 200,
                   weather = 'day',
+                  biome = 'temperate',
                   max_animals=2,
                   max_buildings=1,
                   info=1,
                   contributors=True
                   ):
-  # info 0: no info, 1: only seed, 2: basic info, 3: all info
+  # info 0: no info, 1: only seed, 2: basic info, 3+: all info
   # weather 'day', 'night', 'rain', 'snow'
-  # make sure all flowers are square, and the top row is used for width
-  print('stifz')
-  
+
   # print draw dimentions
   print(f"\nThe selected draw height is:       {draw_height}") if info >= 2 else None
   print(f"The selected draw width is:        {draw_width}\n") if info >= 2 else None
@@ -114,34 +150,6 @@ def random_garden(seed = None,
   random.seed(seed)
   print(f"Seed: {seed}") if info >= 1 else None
 
-  # Function to filter art by weather
-  def filter_art_by_weather(art_objects, selected_weather):
-    return [art for art in art_objects if not art.weather or selected_weather in art.weather]
-  
-  # Function to filter art by dimentions
-  def select_eligible_objects(art_objects, max_height, max_width):
-    return [obj for obj in art_objects if obj.height <= max_height and obj.width <= max_width]
-
-  # Load and filter art by weather
-  all_flowers = load_ascii_art('art/flowers/')
-  print(len(all_flowers))
-  flowers = filter_art_by_weather(all_flowers, weather)
-  print(len(flowers))
-
-  all_animals = load_ascii_art('art/animals/')
-  animals = filter_art_by_weather(all_animals, weather)
-
-  all_buildings = load_ascii_art('art/buildings/')
-  buildings = filter_art_by_weather(all_buildings, weather)
-
-  # initialize parameters before loop
-  animals_left = max_animals
-  buildings_left = max_buildings
-  drawing = [''] * draw_height
-  draw_width_left = draw_width
-  used_art = set()
-  used_artists = set()
-  used_editors = set()
   # Define weather characters and weights
   weather_chars_weights = {
     'day': ([' ', '~'], [60, 1]),
@@ -149,37 +157,72 @@ def random_garden(seed = None,
     'rain': ([' ', '|', '\''], [20, 2, 1]),
     'snow': ([' ', '-', '*'], [20, 2, 1]),
   }
+  # Check if the provided weather is valid
+  if weather not in weather_chars_weights:
+    raise ValueError(f"Invalid weather type: {weather}. Valid options are: {', '.join(weather_chars_weights.keys())}")
+
+  biomes = ('ice', 'tundra', 'taiga', 
+            'temperate', 'grassland', 'desert', 
+            'steppe', 'savanna', 'tropical', 
+            'swamp', 'mangrove', 'lake', 'ocean')
+  if biome not in biomes:
+    raise ValueError(f"Invalid weather type: {biome}. Valid options are: {biomes}")
+
+  # Function to filter art by weather
+  def filter_art_by_weather_and_biome(art_objects, selected_weather, selected_biome):
+    return [art for art in art_objects if (not art.weather or selected_weather in art.weather) and (not art.biome or selected_biome in art.biome)]
+  
+  # Function to filter art by dimentions
+  def select_eligible_objects(art_objects, max_height, max_width):
+    eligible_objects = []
+    rarities = []
+    for obj in art_objects:
+      if obj.height <= max_height and obj.width <= max_width:
+        eligible_objects.append(obj)
+        # Assuming higher rarity value means less frequent appearance
+        rarities.append(1.0 / obj.rarity if obj.rarity > 0 else 1.0)
+    return eligible_objects, rarities
+
+  # Load and filter art by weather
+  all_flowers = load_ascii_art('art/flowers/')
+  flowers = filter_art_by_weather_and_biome(all_flowers, weather, biome)
+
+  all_animals = load_ascii_art('art/animals/')
+  animals = filter_art_by_weather_and_biome(all_animals, weather, biome)
+
+  all_buildings = load_ascii_art('art/buildings/')
+  buildings = filter_art_by_weather_and_biome(all_buildings, weather, biome)
+
+  # initialize parameters before loop
+  animals_left = max_animals
+  buildings_left = max_buildings
+  drawing = [''] * draw_height
+  draw_width_left = draw_width
+  used_art = list()
+  used_artists = set()
+  used_editors = set()
 
   # drawing loop: loop until no width left
   while draw_width_left > 0:
 
     # Select eligible flowers, animals, and buildings
-    eligible_flowers = select_eligible_objects(flowers, draw_height, draw_width_left)
-    print(len(eligible_flowers))
-    eligible_animals = select_eligible_objects(animals, draw_height, draw_width_left)
-    eligible_buildings = select_eligible_objects(buildings, draw_height, draw_width_left)
+    eligible_flowers, flower_rarities = select_eligible_objects(flowers, draw_height, draw_width_left)
+    eligible_animals, animal_rarities = select_eligible_objects(animals, draw_height, draw_width_left)
+    eligible_buildings, building_rarities = select_eligible_objects(buildings, draw_height, draw_width_left)
 
     # Calculate chances for animal or buiding
     chance_for_animal = (animals_left / (animals_left + len(eligible_flowers) + len(eligible_buildings)))
     chance_for_building = (buildings_left / (buildings_left + len(eligible_flowers) + len(eligible_animals)))
 
-    # select category by chance
+    # Pick random art weighted by rarity
     if animals_left > 0 and eligible_animals and random.random() < chance_for_animal:
-      selected_category = 'animal'
-    elif buildings_left > 0 and eligible_buildings and random.random() < chance_for_building:
-      selected_category = 'building'
-    else:
-      selected_category = 'flower'
-    
-    # Load art
-    if selected_category == 'animal':
-      selected_obj = random.choice(eligible_animals)
+      selected_obj = random.choices(eligible_animals, weights=animal_rarities)[0]
       animals_left -= 1
-    elif selected_category == 'building':
-      selected_obj = random.choice(eligible_buildings)
+    elif buildings_left > 0 and eligible_buildings and random.random() < chance_for_building:
+      selected_obj = random.choices(eligible_buildings, weights=building_rarities)[0]
       buildings_left -= 1
     else:  # 'flower'
-      selected_obj = random.choice(eligible_flowers)
+      selected_obj = random.choices(eligible_flowers, weights=flower_rarities)[0]
 
     # Add empty rows or weather
     height_difference = draw_height - selected_obj.height
@@ -198,12 +241,12 @@ def random_garden(seed = None,
     print(f"draw width left: {draw_width_left}\n") if info >= 3 else None
 
     # Add artists and editors to the respective sets
-    used_art.update(selected_obj.name)
+    used_art.append(selected_obj.name)
     used_artists.update(selected_obj.artists)
     used_editors.update(selected_obj.editors)
 
   # print selected art
-  print(f"Selected art: {used_art}") if info >= 2 else None
+  print(f"Selected art: {str(used_art)}") if info >= 2 else None
 
   # make one long drawing string
   drawing_string = ''

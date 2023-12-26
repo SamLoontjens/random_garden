@@ -4,6 +4,8 @@ flamingo
 animals
 [weather]
 day, rain, night, snow
+[biome]
+mangrove, lake
 [rarity]
 1
 [artists]

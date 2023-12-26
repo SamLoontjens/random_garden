@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: random-garden
+Version: 0.1
+Summary: An ASCII garden art generator
+Home-page: https://github.com/SamLoontjens/random_garden
+Author: Sam Loontjens
+Author-email: loontjenssam@gmail.com
+Description-Content-Type: text/markdown
+
+# random_garden
+An ASCII garden art generator package
+
+This package provides a simple method to generate ASCII art.
+
+## Installation
+
+Clone this repository and install the package using pip:
+
+    ```bash
+    pip install git+https://github.com/SamLoontjens/random_garden.git
+    ```
+
+## Usage
+
+Import and use the package:
+
+    ```python
+    from random_garden_package.random_garden_generator import random_garden
+
+    random_garden()
+    
+    ```

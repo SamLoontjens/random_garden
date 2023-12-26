@@ -1,0 +1,14 @@
+loose biome descriptions
+ice		ice, snow
+tundra		snow, grass
+taiga		snow, trees
+temperate	trees, grass
+grassland	grass
+desert		dry, cacti
+steppe		warm, grass
+savanna		warm, grass, trees
+tropical	warm, trees
+swamp		moist, trees
+mangrove	moist, specific trees
+lake		fresh water
+ocean		salt water

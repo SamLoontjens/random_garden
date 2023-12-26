@@ -3,7 +3,9 @@ camel
 [category]
 animals
 [weather]
-day
+day, night
+[biome]
+desert
 [rarity]
 1
 [artists]

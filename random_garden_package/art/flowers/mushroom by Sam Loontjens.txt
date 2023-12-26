@@ -3,7 +3,9 @@ mushroom
 [category]
 flowers
 [weather]
-night
+day, night, rain, snow
+[biome]
+taiga, temperate, tropical, swamp
 [rarity]
 1
 [artists]

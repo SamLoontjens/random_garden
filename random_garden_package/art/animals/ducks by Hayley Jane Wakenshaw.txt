@@ -4,6 +4,8 @@ ducks
 animals
 [weather]
 day, rain, night, snow
+[biome]
+temperate, grassland, swamp, lake, ocean
 [rarity]
 1
 [artists]

@@ -4,6 +4,8 @@ anteater
 animals
 [weather]
 night
+[biome]
+grassland, steppe, savanna, tropical
 [rarity]
 1
 [artists]

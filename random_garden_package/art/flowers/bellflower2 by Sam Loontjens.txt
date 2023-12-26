@@ -4,6 +4,8 @@ bellflower2
 flowers
 [weather]
 day, night
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]

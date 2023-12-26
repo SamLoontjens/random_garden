@@ -3,7 +3,9 @@ pine
 [category]
 flowers
 [weather]
-snow
+day, night, rain, snow
+[biome]
+taiga
 [rarity]
 1
 [artists]
@@ -24,12 +26,12 @@ https://ascii.co.uk/art/leaf
   Bruce
 Patterson
 [new]
-*  |   
+   |   
   \|/  
  \\|// 
 \\\|///
 \\\|///
- \\|//*
+ \\|// 
   \|/  
-\  | \/
+ . |   
 ^^^^^^^

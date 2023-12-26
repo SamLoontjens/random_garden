@@ -3,7 +3,9 @@ bellflower3
 [category]
 flowers
 [weather]
-day, night, rain, snow
+day, night
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]

@@ -4,6 +4,8 @@ beaver
 animals
 [weather]
 rain
+[biome]
+taiga, temperate, grassland, steppe, savanna, tropical, swamp, lake
 [rarity]
 1
 [artists]

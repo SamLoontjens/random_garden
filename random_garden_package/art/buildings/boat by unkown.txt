@@ -3,7 +3,9 @@ boat
 [category]
 buildings
 [weather]
-rain
+day, night, rain, snow
+[biome]
+lake
 [rarity]
 1
 [artists]
@@ -23,8 +25,8 @@ ___t_________
 
 unknown
 [new]
-'     _ '   |
- |   /|\   ' 
-|   /_|_\    
-  ____|____ |
+      _      
+     /|\     
+    /_|_\    
+  ____|____  
 ~~\_o_o_o_/~~

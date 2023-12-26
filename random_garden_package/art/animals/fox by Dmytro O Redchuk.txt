@@ -4,6 +4,8 @@ fox
 animals
 [weather]
 night
+[biome]
+taiga, temperate, grassland, desert, steppe, savanna
 [rarity]
 1
 [artists]

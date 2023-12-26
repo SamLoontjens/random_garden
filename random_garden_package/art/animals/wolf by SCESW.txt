@@ -4,8 +4,10 @@ wolf by SCESW
 animals
 [weather]
 night
+[biome]
+tundra, taiga, temperate, grassland, desert
 [rarity]
-1
+5
 [artists]
 SCESW
 [editors]

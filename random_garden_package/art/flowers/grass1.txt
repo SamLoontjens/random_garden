@@ -3,7 +3,9 @@ grass1
 [category]
 flowers
 [weather]
-day, rain, night, snow
+day, night, rain, snow
+[biome]
+tundra, taiga, temperate, grassland, desert, steppe, savanna, tropical, swamp, mangrove, lake
 [rarity]
 1
 [original]

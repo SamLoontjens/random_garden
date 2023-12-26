@@ -4,6 +4,8 @@ flower1
 flowers
 [weather]
 day, night, rain, snow
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]

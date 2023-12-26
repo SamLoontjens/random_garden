@@ -1,9 +1,11 @@
 [name]
-racoon
+raccoon
 [category]
 animals
 [weather]
 night
+[biome]
+taiga, temperate, grassland, steppe, savanna, tropical, swamp
 [rarity]
 1
 [artists]

@@ -3,7 +3,9 @@ baby elephant
 [category]
 animals
 [weather]
-rain
+day, night, rain, snow
+[biome]
+steppe, savanna, tropical
 [rarity]
 1
 [artists]
@@ -19,7 +21,7 @@ https://ascii.co.uk/art/elephant
  |  ___  \_/\---'         \/ || \/       \|  \ |/ 
  |_||  |_||                |_''_|         |_||_|     wtx
 [new]
- |'   '    _      '|
+           _        
     ______/ \-.   _ 
  .-/     (    o\_// 
   |  ___  \_/\---'  

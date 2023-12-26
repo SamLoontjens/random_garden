@@ -4,6 +4,8 @@ christmas tree
 flowers
 [weather]
 snow
+[biome]
+taiga
 [rarity]
 1
 [artists]
@@ -31,7 +33,6 @@ https://ascii.co.uk/art/christmas
                                 |  |        
                        -bf-   --'  `--
 [new]
-
  -*       |L    -   - 
     *    ,' `    *  * 
    -    /.o `,     -- 

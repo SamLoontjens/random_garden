@@ -3,7 +3,9 @@ bike
 [category]
 buildings
 [weather]
-day
+day, night
+[biome]
+temperate, grassland
 [rarity]
 1
 [artists]
@@ -24,7 +26,7 @@ https://ascii.co.uk/art/bike
                              `---'        `---'      hjw
 [new]
              __       
-  ,--.      <__)   ~  
+  ,--.      <__)      
    `- |________7      
       |`.      |\     
    .--|. \     |.\--. 

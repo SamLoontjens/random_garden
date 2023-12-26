@@ -1,0 +1,30 @@
+[name]
+wave3
+[category]
+flowers
+[weather]
+rain, snow
+[biome]
+ocean
+[rarity]
+1
+[artists]
+unknown
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/wave
+[original]
+           _.====.._
+         ,:._       ~-_
+             `\        ~-_
+               | _  _  |  `.
+             ,/ /_)/ | |    ~-_
+    -..__..-''  \_ \_\ `_      ~~--..__...----... AN OCEAN WAVE ...
+[new]
+        _.====.._                              
+      ,:._       ~-_                           
+          `\        ~-_                        
+            | _        `.                      
+          ,/    )        ~-_                   
+~-..__..-''          _      ~~--..__...----...~

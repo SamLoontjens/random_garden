@@ -4,6 +4,8 @@ christmas tree
 flowers
 [weather]
 snow
+[biome]
+taiga
 [rarity]
 1
 [artists]
