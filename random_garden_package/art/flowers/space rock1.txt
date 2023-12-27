@@ -1,0 +1,12 @@
+[name]
+space rock1
+[category]
+flowers
+[weather]
+night
+[biome]
+space
+[rarity]
+1
+[original]
+^

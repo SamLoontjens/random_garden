@@ -3,7 +3,7 @@ ice1
 [category]
 flowers
 [weather]
-day, night, rain, snow
+day, night, snow
 [biome]
 ice
 [rarity]

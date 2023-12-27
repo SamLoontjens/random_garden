@@ -5,9 +5,11 @@ flowers
 [weather]
 snow
 [biome]
-taiga
+taiga, temperate, grassland
 [rarity]
 1
+[dates]
+12:24, 12:25, 12:26
 [artists]
 bf
 [editors]

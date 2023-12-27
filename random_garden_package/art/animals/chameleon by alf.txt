@@ -3,7 +3,7 @@ chameleon
 [category]
 animals
 [weather]
-day, night, rain, snow
+day, night, rain
 [biome]
 desert, steppe, savanna, tropical
 [rarity]

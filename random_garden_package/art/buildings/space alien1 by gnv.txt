@@ -1,0 +1,50 @@
+[name]
+space alien1
+[category]
+buildings
+[weather]
+night
+[biome]
+space
+[rarity]
+1
+[artists]
+gnv
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/space/aliens
+[original]
+     _____
+ ___/     \___
+`-._)     (_,-`
+    \O _ O/
+     \ - /
+      `-(
+       ||
+      _||_
+     |-..-|
+     |/. \|
+     |\__/|
+   ._|//\\|_,
+   `-((  ))-'
+    __\\//__ gnv
+    >_ /\ _<,
+      ''
+[new]
+      _____         
+  ___/     \___     
+ `-._)     (_,-`    
+     \O _ O/        
+      \ - /         
+       `-(          
+        ||          
+       _||_         
+      |-..-|        
+      |/. \|        
+      |\__/|        
+    ._|//\\|_,      
+    `-((  ))-'      
+     __\\//__       
+     >_ /\ _<,      
+^~~~^^^~^^^~^^^~^^~^

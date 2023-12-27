@@ -1,0 +1,57 @@
+[name]
+underwater fish2
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[biome]
+underwater
+[rarity]
+1
+[artists]
+jgs
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/sea
+[original]
+         ~^~^~^~^~^~^~^~^~^~^~^^~^~^~^~^~^~
+           ~                            ~
+                \   '    o      '
+                /\ o       \  o
+              >=)'>    '   /\ '
+                \/   \   >=)'>        ~
+                /    /\    \/
+         ~         >=)'>   /     .
+                     \/                   )
+                     /                   (
+                           ~          )   )
+           }     ~              (    (   (
+          {                      )    )   )
+           }  }         .       (    (   (
+          {  {               /^^^^^^^^^^^^jgs
+         ^^^^^^^^^\         /
+                   ^^^^^^^^^
+[new]
+.,_,.-'``'-.,
+             
+             
+             
+             
+             
+    ~        
+       \   ' 
+       /\ o  
+     >=)'>   
+       \/    
+       /     
+  ~          
+             
+             
+             
+    }     ~  
+   {         
+    }  }     
+   {  {      
+ /^^^^^^^^^\ 
+^           ^

@@ -1,0 +1,38 @@
+[name]
+little flower
+[category]
+flowers
+[weather]
+day, night, rain, snow
+[biome]
+temperate, grassland
+[rarity]
+1
+[artists]
+cjr
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/weed
+[original]
+             _..._
+           .' . . '.
+           :   '   :
+        :--.'-.:.-'.--;
+        `--.`-.:.-'.--'
+            `-.:.-'
+               :            cjr
+               :
+               :
+         little weed
+[new]
+     _..._     
+   .' . . '.   
+   :   '   :   
+:--.'-.:.-'.--;
+`--.`-.|.-'.--'
+    `-.:.-'    
+       |  @    
+   @   : \|/ @ 
+ \\|/  | \| \|/
+^^^^^^^^^^^^^^^

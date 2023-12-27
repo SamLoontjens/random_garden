@@ -1,0 +1,109 @@
+[name]
+underwater seaweed6
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[biome]
+underwater
+[rarity]
+1
+[artists]
+jgs, Max Strandberg
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/fish
+[original]
+         ~^~^~^~^~^~^~^~^~^~^~^^~^~^~^~^~^~
+           ~                            ~
+                \   '    o      '
+                /\ o       \  o
+              >=)'>    '   /\ '
+                \/   \   >=)'>        ~
+                /    /\    \/
+         ~         >=)'>   /     .
+                     \/                   )
+                     /                   (
+                           ~          )   )
+           }     ~              (    (   (
+          {                      )    )   )
+           }  }         .       (    (   (
+          {  {               /^^^^^^^^^^^^jgs
+         ^^^^^^^^^\         /
+                   ^^^^^^^^^
+A growing high body discus, from egg to juvenile by Max Strandberg
+
+        o    Max
+
+        ._   Max
+
+        o-   Max
+
+        O<   Max
+
+        ,
+       ()<   Max
+        `
+
+       ,,
+      (')<   Max
+       ``
+
+       ,-,
+      ('_)<  Max
+       `-`
+
+       _
+      /_|
+     ('_)<|
+      \_|    Max
+
+      __
+     /__|
+    /'  \/|
+    \<__/\|  Max
+     \__|
+
+     ____
+    /    \
+   /----./
+  / o    \/|
+  >        |
+  \ <)   /\|
+   \----'\   Max
+    \____/
+
+   ,-----.
+  /____  /
+ /     \/ _
+/ O     \/ |
+>          |
+\ <)    /\_|
+ \_____/\    Max
+  \      \
+   `-----'
+
+[new]
+.,_,.-'``'-.,-'``'-
+                   
+               ~   
+             ,,    
+            (')<   
+    ~        ``    
+                   
+                   
+                   
+                   
+       _           
+  ~   | \          
+    |>(_')         
+      |_/     )    
+             (     
+          ) ~ )    
+    (    (   (     
+     )    )   )    
+    (o   (  o(     
+  /^^^^^^^^^^^^^\  
+ /               \ 
+^                 ^

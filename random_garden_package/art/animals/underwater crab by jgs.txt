@@ -1,0 +1,55 @@
+[name]
+underwater fish1
+[category]
+animals
+[weather]
+day, rain, night, snow
+[biome]
+underwater
+[rarity]
+1
+[artists]
+jgs, Neil Smith
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/sea
+[original]
+             ,        ,
+            /(_,    ,_)\
+            \ _/    \_ /
+            //        \\
+            \\ (@)(@) //
+             \'="=="='/
+         ,===/        \===,
+        ",===\        /===,"
+        " ,==='------'===, "
+   jgs   "                "
+
+o   _/,_
+ . /o...\__//
+   \_'__/``\` Neil Smith
+     \`
+[new]
+-.,_,.-'``'-.,~~.,_,.-
+                      
+                      
+                      
+                      
+ o   _/,_             
+  . /o...\__//        
+    \_'__/``\`        
+      \`              
+                      
+                      
+                      
+      ,        ,      
+     /(_,    ,_)\     
+     \ _/    \_ /     
+     //        \\     
+     \\ (@)(@) //     
+      \'="=="='/      
+  ,===/        \===,  
+ ",===\        /===," 
+ " ,==='------'===, " 
+^^"^^^^^^^^^^^^^^^^"^^

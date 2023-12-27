@@ -3,7 +3,7 @@ sand1
 [category]
 flowers
 [weather]
-day, night, rain, snow
+day, night
 [biome]
 desert
 [rarity]

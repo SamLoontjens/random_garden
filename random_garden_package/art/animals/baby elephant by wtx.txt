@@ -3,7 +3,7 @@ baby elephant
 [category]
 animals
 [weather]
-day, night, rain, snow
+day, night, rain
 [biome]
 steppe, savanna, tropical
 [rarity]

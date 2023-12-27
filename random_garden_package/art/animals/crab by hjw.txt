@@ -3,9 +3,9 @@ crab
 [category]
 animals
 [weather]
-day, night, rain, snow
+day, night, rain
 [biome]
-swamp, mangrove, lake, ocean
+swamp, mangrove
 [rarity]
 1
 [artists]

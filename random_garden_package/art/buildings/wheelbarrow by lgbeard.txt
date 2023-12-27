@@ -1,0 +1,39 @@
+[name]
+wheelbarrow
+[category]
+buildings
+[weather]
+day, night
+[biome]
+desert
+[rarity]
+1
+[artists]
+lgbeard
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/miscellaneous/tools
+[original]
+A wheelbarrow by lgbeard
+
+                                  _______
+     ___________________________.'.------`
+    '---------------------------.'
+      `.                      .'
+    .-//`.                  .'
+ .' .//.'/`================'
+=[=:====:=]=           \\||
+ '. `--' .' LGB         \_|
+   `-  -'
+
+[new]
+                                 _____ 
+     __________________________.'.----`
+    '---------------------------.'     
+      `.                      .'       
+    .-//`.                  .'         
+ .' .//.'/`================'           
+=[=:====:=]=           \\||            
+ '. `--' .'           _ \_| _          
+-.-`-  -' --_-_--_--'        '_-_---__-

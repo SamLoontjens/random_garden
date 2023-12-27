@@ -1,0 +1,38 @@
+[name]
+polar bear
+[category]
+animals
+[weather]
+day, night, snow
+[biome]
+ice
+[rarity]
+2
+[artists]
+chs
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/polar
+[original]
+__-
+    .--~~~~~~~----~~-.__.00_     ____---                 ____---       __
+   d                        o\              ____---
+  :       .                   ~o                              --
+  :       |         '   ._'--`-'   ___--                             --
+  9      l          l    j                                 .--.
+  }     j            \   Y                 ____---      o-" o  \
+  |   _/~~T-...---~" -.  \   __--                       _'.     \___
+  |  / \  |      |  /  \  \                            "._ `\    \_." __-
+  \_;,, \_;,,    \_;,,  "-,;,                 ____..---~~ ~~~~~~~~
+chs
+[new]
+    .--~~~~~~~----~~-.__.00_     
+   d                       0 \   
+ (:       .                   ~o 
+  :       |         '   ._'--`-' 
+  9      l          l    j       
+  }     j            \   Y       
+  |   _/~~T-...---~" -.  \       
+  |  / \  |      |  /  \  \      
+._\_;,, \_;,, _  \_;,, _"-,;,__.-

@@ -1,0 +1,50 @@
+[name]
+seashell
+[category]
+flowers
+[weather]
+day, rain, night, snow
+[biome]
+underwater
+[rarity]
+3
+[artists]
+jgs
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/seashell
+[original]
+@@ shell- whelk @@  11/96
+
+       /\
+      {.-}
+     ;_.-'\
+    {    _.}_
+     \.-' /  `,
+      \  |    /
+       \ |  ,/
+    jgs \|_/
+[new]
+.,_,.~~.,_,.-
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+    /\       
+   {.-}      
+  ;_.-'\     
+ {    _.}_   
+  \.-' /  `, 
+   \  |    / 
+    \ |  ,/  
+^^^^^\|_/^^^^

@@ -1,0 +1,46 @@
+[name]
+mailbox
+[category]
+buildings
+[weather]
+day, night, rain, snow
+[biome]
+temperate, grassland
+[rarity]
+1
+[artists]
+jgs
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/miscellaneous/mailbox
+[original]
+Maibox by Joan G. Stark
+
+           _
+          |E]
+        .-|=====-.
+        | | mail |
+     ___|________|
+            ||
+            ||
+            ||   www
+     ,;,    ||   )_(,;;;,
+     <_>  \ ||   \|/ \_/
+     \|/  \\||  \\|   |//
+_jgs_\|//_\\|///_\V/_\|//__
+
+[new]
+       _             
+      |E]            
+    .-|=====-.       
+    | | ==== |       
+ ___|________|       
+        ||           
+        ||           
+        ||   www     
+ ,;,    ||   )_(,;;;,
+ <_>  \ ||   \|/ \_/ 
+ \|/  \\||  \\|   |//
+ \|//_\\|///_\V/_\|//
+^^^^^^^^^^^^^^^^^^^^^

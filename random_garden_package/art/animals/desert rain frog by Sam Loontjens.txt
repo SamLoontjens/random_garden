@@ -3,7 +3,7 @@ desert rain frog
 [category]
 animals
 [weather]
-rain
+night
 [biome]
 desert
 [rarity]

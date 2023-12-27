@@ -5,7 +5,7 @@ flowers
 [weather]
 day, night, rain, snow
 [biome]
-tundra, taiga, temperate, grassland, desert, steppe, savanna, tropical, swamp, mangrove, lake
+tundra, taiga, temperate, grassland, desert, steppe, savanna, tropical, swamp, mangrove, lake, fantasy
 [rarity]
 1
 [original]
