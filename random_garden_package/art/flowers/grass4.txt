@@ -1,0 +1,12 @@
+[name]
+grass4
+[category]
+flowers
+[weather]
+day, rain, night
+[biome]
+steppe, savanna
+[rarity]
+1
+[original]
+^^^^^^^

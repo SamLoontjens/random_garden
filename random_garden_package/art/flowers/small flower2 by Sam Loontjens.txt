@@ -1,0 +1,16 @@
+[name]
+mushroom
+[category]
+flowers
+[weather]
+day, night, rain, snow
+[biome]
+tundra, taiga, temperate, grassland, steppe, tropical, swamp
+[rarity]
+1
+[artists]
+Sam Loontjens
+[original]
+ # 
+\|/
+^^^

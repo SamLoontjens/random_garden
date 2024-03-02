@@ -1,0 +1,39 @@
+[name]
+flower 9 from the Flower Garden
+[category]
+flowers
+[weather]
+day, night, rain, snow
+[biome]
+temperate, grassland
+[rarity]
+1
+[artists]
+Joan G. Stark
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/plants/flowers
+[original]
+Flower garden by Joan G. Stark
+
+                    _
+                  _(_)_                          wWWWw   _
+      @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_
+     @@()@@ wWWWw  (_)\    (___)   _(_)_  @@()@@   Y  (_)@(_)
+      @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\
+       /      Y       \|    \|/    /(_)    \|      |/      |
+    \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
+jgs \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[new]
+·· _  ······
+ _(_)_  ····
+(_)@(_) _ ··
+  (_)\_(_)_ 
+·    (_)@(_)
+·    \|(_)  
+  @  \|/ ···
+ \|\\\|//···
+^^^^^^^^^···

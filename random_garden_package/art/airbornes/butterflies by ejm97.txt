@@ -1,11 +1,11 @@
 [name]
 butterflies
 [category]
-animals
+airbornes
 [weather]
-day
+day, night
 [biome]
-temperate, grassland
+taiga, temperate, grassland, steppe, savanna, tropical, swamp, lake
 [rarity]
 1
 [artists]
@@ -22,16 +22,9 @@ https://ascii.co.uk/art/butterfly
            (/|\)_\|/_)   (/|\)
    ejm97        (/|\)
 [new]
-                ~               _ " _ 
+                                _ " _ 
  _ " _                         (_\|/_)
 (_\|/_)  _ " _         _ " _    (/|\) 
  (/|\)  (_\|/_) " _   (_\|/_)         
          (/|\)_\|/_)   (/|\)          
-              (/|\) wWWWw             
-       wWWWw        (___)  @@@@   ~   
-       (___)  vVVVv   Y   @@()@@      
-vVVVv   ~Y~   (___)  \|/   @@@@       
-(___)    |/    ~Y~    |/    /   \(")/ 
-\~Y~/   \|    \ |/   \|  \ |    -( )- 
-\\|//  \\|// \\\|///\\|//\\|//  /(_)\ 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              (/|\)                   

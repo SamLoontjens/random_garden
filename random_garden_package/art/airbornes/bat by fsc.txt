@@ -1,0 +1,26 @@
+[name]
+bat
+[category]
+airbornes
+[weather]
+night
+[biome]
+taiga, temperate, grassland, desert, steppe, savanna, tropical, swamp
+[rarity]
+1
+[artists]
+fsc, Stephen CES Wilson
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/bat
+[original]
+                 _..__.          .__.._
+               .^"-.._ '-(\__/)-' _..-"^.
+                      '-.' oo '.-'
+                         `-..-'  fsc    
+[new]
+   _..__.          .__.._   
+ .^"-.._ '-(\__/)-' _..-"^. 
+        '-.' oo '.-'        
+           `-..-'           

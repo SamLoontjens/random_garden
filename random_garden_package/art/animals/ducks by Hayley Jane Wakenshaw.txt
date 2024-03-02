@@ -5,7 +5,7 @@ animals
 [weather]
 day, rain, night, snow
 [biome]
-temperate, grassland, swamp, lake, ocean
+temperate, grassland, swamp, lake
 [rarity]
 1
 [artists]
@@ -28,7 +28,7 @@ ___( o)>
 \ <_. )
  `---'   hjw
 [new]
-      __       __      
+····  __   ·   __  ····
   ___( o)>   <(o )___  
   \ <_. )     ( ._> /  
 ~^~`^~-'~^~^~^~`^~-'~^~

@@ -1,0 +1,12 @@
+[name]
+sky1
+[category]
+flowers
+[weather]
+day
+[biome]
+sky
+[rarity]
+1
+[original]
+ 

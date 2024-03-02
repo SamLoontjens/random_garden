@@ -1,7 +1,7 @@
 [name]
-wasp
+wasp1
 [category]
-animals
+airbornes
 [weather]
 day
 [biome]
@@ -23,15 +23,7 @@ https://ascii.co.uk/art/wasp
 Stef
 [new]
      _  _                  
-    | )/ )       ~         
+    | )/ )                 
  \\ |//,' __               
  (")(_)-"()))=- .._..-''-- 
     (\\            `       
-   _                     ~ 
- _(_)_     _               
-(_)@(_)  .\ /.   ~  wWWWw  
-  (_)\  < ~O~ >     (___)  
-     |   '/_\'        Y    
-    \|/  \ | /      \ |/   
-  \\\|//  \|/       \\|/// 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^

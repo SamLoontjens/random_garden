@@ -11,8 +11,8 @@ desert
 [artists]
 Sam Loontjens
 [original]
-              
- (o)_(O)__    
+·         ····
+ (o)_(O)__   ·
  (        ?)  
   m m    nm   
 ^^^^^^^^^^^^^^

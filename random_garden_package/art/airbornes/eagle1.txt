@@ -1,0 +1,41 @@
+[name]
+eagle1
+[category]
+airbornes, unique
+[weather]
+day, night, rain, snow
+[biome]
+taiga, grassland, desert, steppe, savanna, lake
+[rarity]
+5
+[artists]
+unknown
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/eagle
+[original]
+           ///,        ////
+           \  /,      /  >.
+            \  /,   _/  /.
+             \_  /_/   /.
+              \__/_   <
+              /<<< \_\_
+             /,)^>>_._ \
+             (/   \\ /\\\
+                  // ````
+                 ((`
+
+diddle by
+unknown
+[new]
+ ///,        ////
+ \  /,      /  >.
+  \  /,   _/  /. 
+   \_  /_/   /.  
+    \__/_   <    
+    /<<< \_\_    
+   /,)^>>_._ \   
+   (/   \\ /\\\  
+        // ````  
+       ((`       

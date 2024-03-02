@@ -1,0 +1,28 @@
+[name]
+bee6
+[category]
+airbornes
+[weather]
+day, night
+[biome]
+taiga, temperate, grassland, steppe, savanna, tropical, swamp, lake
+[rarity]
+1
+[artists]
+Hayley Jane Wakenshaw
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/insects/bees
+[original]
+ ,-.
+ \ /
+{|||)<
+ / \ hjw
+ `-^
+[new]
+········  ,-.  
+          \ /  
+.  '  .  {|||)<
+          / \  
+········  `-^  

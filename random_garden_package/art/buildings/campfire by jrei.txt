@@ -3,7 +3,7 @@ campfire
 [category]
 buildings
 [weather]
-night
+night, snow
 [biome]
 tundra, taiga, temperate, grassland, desert, steppe, savanna, tropical
 [rarity]
@@ -27,13 +27,13 @@ https://ascii.co.uk/art/campfire
       ( `.__ _  ___,')      <_,-'__,'
  jrei  `'(_ )_)(_)_)'
 [new]
-  .    (          
-        )     +   
-   +   (  (       
-           )      
-     (    (     . 
-      ) /\        
-    (  // | (`    
+······ (   ·······
+·····   )    ·····
+·····  (  (   ····
+···        )  ····
+···  (    (   ····
+···   ) /\      ··
+··  (  // | (`   ·
   _ -.;_/ \\--._  
  (_;-// | \ \-'.\ 
 .( `.__ _  ___,').

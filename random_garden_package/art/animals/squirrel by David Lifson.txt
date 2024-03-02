@@ -24,7 +24,7 @@ https://ascii.co.uk/art/squirrel
 
 Squirrel by David Lifson
 [new]
-  __        
+  __    ····
  ' )`\      
   /' |_./<  
  |  /'-.\o| 

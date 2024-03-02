@@ -1,11 +1,11 @@
 [name]
-mushroom
+big mushroom2
 [category]
 flowers
 [weather]
-night
+day, night, rain
 [biome]
-taiga, temperate, tropical, swamp
+swamp
 [rarity]
 1
 [artists]
@@ -28,12 +28,12 @@ _\\;_\\//_________`-..__..-'______`.__.'____`....'`..____.'_`._.'`._.'______
 
 Stephen CES Wilson
 [new]
-                  .-'~~~-.            
-       .        .'o  oOOOo`.      +   
-              :~~~-.oOo   o`.         
-                `. \ ~-.  oOOo.     . 
-       +          `.; / ~.  OO:       
- .                .'  ;-- `.o.'       
-                ,'  ; ~~--'~          
-                ;  ;                  
-^--^..__\|/___\\;_\\//___\|/____..-^-^
+··   .-'~~~-.   ···
+   .'o      o`.   ·
+ :~~~-.       `.   
+   `. \ ~-.     o. 
+··   `.; / ~.    : 
+··   .'  ;-- `.o.' 
+·· ,'  ; ~~--'~  ··
+·· ;  ;          ··
+··~;^^^~^~^~^~^~^··

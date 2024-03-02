@@ -1,11 +1,11 @@
 [name]
-mushroom
+big mushroom1
 [category]
 flowers
 [weather]
-day, night, rain, snow
+day, night, rain
 [biome]
-taiga, temperate, tropical, swamp
+swamp
 [rarity]
 1
 [artists]
@@ -30,16 +30,16 @@ https://ascii.co.uk/art/mushroom
          .\\)`;,|\'/(
           ` `itz `(,
 [new]
-         ___..._     
-    _,--'       "`-. 
+·····    ___..._    ·
+··  _,--'       "`-. 
   ,'.  .            \
 ,/:. .     .       .'
 |;..  .      _..--'  
-`--:...-,-'""\       
-        |:.  `.      
-        l;.   l      
-        `|:.   |     
-         |:.   `.,   
-  @     .l;.    j, , 
- \|/ `. \`;:.   //,/ 
-^^^^^^^^^^^^^^^^^^^^^
+`--:...-,-'""\     ··
+··      |:.  `.  ····
+······  l;.   l   ···
+······  `|:.   |   ··
+······   |:.   `., ··
+······  .l;.    j, ··
+······  \`;:.   //,··
+······^~^~^^^^^^^~^··

@@ -1,0 +1,36 @@
+[name]
+big bee
+[category]
+airbornes
+[weather]
+day, night
+[biome]
+tropical, swamp
+[rarity]
+1
+[artists]
+unknown
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/insects/bees
+[original]
+                .-~~~-.
+              /        }
+             /      .-~
+            |        }
+___\.~~-.-~|     .-~_
+    { O  |  ` .-~.   ; ~-.__
+     ~--~/-|_\|  :   : .-~
+        /  |  \~ - - ~
+       /   |   \
+[new]
+············    .-~~~-.  ···
+··········    /        } ···
+······       /      .-~  ···
+            |        }   ···
+___\.~~-.-~|     .-~_       
+    { O  |  ` .-~.   ; ~-.__
+··   ~--~/-|_\|  :   : .-~  
+····    /  |  \~ - - ~      
+····   /   |   \        ····

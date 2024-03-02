@@ -1,0 +1,40 @@
+[name]
+stork
+[category]
+airbornes, unique
+[weather]
+day, night, snow
+[biome]
+temperate, grassland
+[rarity]
+1
+[artists]
+jgs
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/stork
+[original]
+                     _.--.
+                 .-"`_.--.\   .-.___________
+               ."_-"`     \\ (  0;------/\"'`
+             ,."=___      =)) \ \      /  \
+              `~` .=`~'~)  ( _/ /     /    \
+      =`---====""~`\          _/     /      \
+                    `-------"`      /        \
+       jgs                         /          \
+                                  (            )
+                                   '._      _.'
+                                      '----'
+[new]
+               _.--.                      
+           .-"`_.--.\   .-.___________    
+         ."_-"`     \\ (  0;------/\"'`   
+       ,."=___      =)) \ \      /  \     
+        `~` .=`~'~)  ( _/ /     /    \    
+=`---====""~`\          _/     /      \   
+              `-------"`      /        \  
+                             /          \ 
+                            (            )
+                             '._      _.' 
+                                '----'    

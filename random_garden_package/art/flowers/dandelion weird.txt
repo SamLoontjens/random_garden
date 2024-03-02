@@ -1,0 +1,36 @@
+[name]
+dandelion weird
+[category]
+flowers
+[weather]
+day, night, rain, snow
+[biome]
+temperate, grassland
+[rarity]
+1
+[artists]
+jro
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/plants/dandelions
+[original]
+                .--.
+              .'_\/_'.
+              '. /\ .'
+                "||"
+                 || /\
+              /\ ||//\)
+             (/\\||/
+          ______\||/_______
+JRO
+[new]
+   .--.   Ditwerktgewo   .--.   
+ .'_\/_'. ············ .'_\/_'. 
+ '. /\ .' ············ '. /\ .' 
+   "||"   ············   "||"   
+    || /\ ············    || /\ 
+ /\ ||//\)············ /\ ||//\)
+(/\\||/   ············(/\\||/   
+___\||/___············___\||/___
+^^^^^^^^^^············^^^^^^^^^^

@@ -1,0 +1,36 @@
+[name]
+sun1
+[category]
+sky, unique
+[weather]
+day
+[biome]
+tundra, taiga, temperate, grassland, desert, steppe, savanna, tropical, swamp, mangrove, lake, ocean, fantasy
+[rarity]
+1
+[artists]
+hjw
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/nature/sun
+[original]
+      ;   :   ;
+   .   \_,!,_/   ,
+    `.,'     `.,'
+     /         \
+~ -- :         : -- ~
+     \         /
+    ,'`._   _.'`.
+   '   / `!` \   `
+      ;   :   ;  hjw
+[new]
+·     ;   :   ;     ·
+   .   \_,!,_/   ,   
+    `.,'     `.,'    
+     /         \     
+~ -- :         : -- ~
+     \         /     
+    ,'`._   _.'`.    
+·  '   / `!` \   `  ·
+··    ;   :   ;    ··

@@ -1,0 +1,28 @@
+[name]
+seagull1
+[category]
+airbornes
+[weather]
+day, night, rain, snow
+[biome]
+lake
+[rarity]
+1
+[artists]
+unknown
+[editors]
+Sam Loontjens
+[retrieved from]
+https://ascii.co.uk/art/birds
+[original]
+       .:~~--__                __--~~:.
+     ,:;'~'-,__~~--..----..--~~__,-`~`::.
+   ,:;'        ''-,_ (. . _,-``        `::.
+ ,;'                \ `\)/                `:.
+'                    `--'                    `
+[new]
+····   .:~~--__      ····      __--~~:.   ····
+··   ,:;'~'-,__~~--..----..--~~__,-`~`::.   ··
+   ,:;'        ''-,_ (0 0 _,-``        `::.   
+ ,;'     ····       \ `\)/        ····    `:. 
+'      ········      `--'      ········      `

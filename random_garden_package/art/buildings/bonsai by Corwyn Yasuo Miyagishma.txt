@@ -30,9 +30,9 @@ https://ascii.co.uk/art/bonsai
      (_)                    (_)
      Corwyn Yasuo Miyagishima
 [new]
-       ,.,                           
-      MMMM_    ,..,                  
-        "_ "__"MMMMM          ,...,, 
+·····  ,.,  ·························
+···   MMMM_    ,..,   ···············
+···     "_ "__"MMMMM    ···   ,...,, 
  ,..., __." --"    ,.,     _-"MMMMMMM
 MMMMMM"___ "_._   MMM"_."" _ """"""  
  """""    "" , \_.   "_. ."          

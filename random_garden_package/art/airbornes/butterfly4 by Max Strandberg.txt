@@ -1,0 +1,37 @@
+[name]
+butterfly4
+[category]
+airbornes
+[weather]
+day, night
+[biome]
+taiga, temperate, grassland, savanna, tropical, swamp, lake
+[rarity]
+1
+[artists]
+Max Strandberg
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/insects/butterflies
+[original]
+Art by Max Strandberg
+
+   .  .
+ __ \/ __
+/O*\()/*O\
+\***||***/   Max
+ `>-||-<'
+ (o/\/\o)    _   _
+  "    "    (o\w/o)
+   Max       `>I<'
+             (/'\)
+
+[new]
+   .  .   
+ __ \/ __ 
+/O*\()/*O\
+\***||***/
+ `>-||-<' 
+ (o/\/\o) 
+  "    "  

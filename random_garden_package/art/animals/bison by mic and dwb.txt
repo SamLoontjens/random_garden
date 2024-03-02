@@ -5,7 +5,7 @@ animals
 [weather]
 day, rain, night, snow
 [biome]
-taiga, temperate, grassland
+taiga, temperate, grassland, steppe
 [rarity]
 1
 [artists]
@@ -28,8 +28,8 @@ https://www.asciiart.eu/animals/bisons
                 \( \(     |/   |/
     mic & dwb  /_(/_(    /_(  /_(
 [new]
-             _.-````'-,_              
-   _,.,_ ,-'`           `'-.,_        
+·········    _.-````'-,_     ·········
+   _,.,_ ,-'`           `'-.,_     ···
  /)     (\                   '``-.    
 ((      ) )                      `\   
  \)    (_/                        )\  

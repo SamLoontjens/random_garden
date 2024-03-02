@@ -1,7 +1,7 @@
 [name]
 space earth
 [category]
-buildings
+airbornes, unique
 [weather]
 night
 [biome]
@@ -46,4 +46,4 @@ o               .        ___---___                    .
     |    .          ~\ \   .      /  /~          o          
   .                   ~--___ ; ___--~                       
                  .          ---         .                   
-^~~~^^^~^^^~^^^~^^~^^~~~^^^~^^^~^^^~^^~^^~~~^^^~^^^~^^^~^^~^
+                                                            

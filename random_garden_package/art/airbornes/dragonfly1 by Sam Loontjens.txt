@@ -1,0 +1,23 @@
+[name]
+dragonfly1
+[category]
+airbornes
+[weather]
+day, night, rain
+[biome]
+taiga, temperate, grassland, steppe, savanna, tropical, swamp, lake
+[rarity]
+1
+[artists]
+Sam Loontjens
+[original]
+·······    _    ·······
+·····    ()I()    ·····
+ .--..,_"=_:_="_,..--. 
+(        ( Y )        )
+ '-._ _..-\ /-.._ _.-' 
+· (       /=\       ) ·
+·· '-._. '\ /' ._.-' ··
+·····      |      ·····
+·········  |  ·········
+·········  ^  ·········

@@ -1,0 +1,33 @@
+[name]
+butterfly2
+[category]
+airbornes
+[weather]
+day, night
+[biome]
+tropical, swamp
+[rarity]
+1
+[artists]
+Hayley Jane Wakenshaw
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/insects/butterflies
+[original]
+Art by Hayley Jane Wakenshaw
+
+ (\  \/  /)
+ /@\ () /@\
+ }`=`||'='{
+( %'/||\`% )   hjw
+ `~' \/ `~'
+
+[new]
+            
+ (\  \/  /) 
+ /@\ () /@\ 
+ }`=`||'='{ 
+( %'/||\`% )
+ `~' \/ `~' 
+            

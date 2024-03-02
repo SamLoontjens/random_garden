@@ -11,8 +11,8 @@ taiga, temperate, tropical, swamp
 [artists]
 Sam Loontjens
 [original]
-      ,',     
-    ,',',',   
+··    ,',   ··
+··  ,',',', ··
   ,   `|`  ,  
 ,',',  | ,',',
  `|    |  `|  

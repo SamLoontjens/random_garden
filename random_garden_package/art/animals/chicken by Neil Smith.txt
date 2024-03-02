@@ -21,7 +21,7 @@ https://ascii.co.uk/art/chicken
  \_/_)
   _|_                Chicken      -Neil Smith-
 [new]
-    \\  
+··  \\  
     (o> 
  \\_//) 
   \_/_) 

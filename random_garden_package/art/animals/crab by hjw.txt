@@ -5,7 +5,7 @@ animals
 [weather]
 day, night, rain
 [biome]
-swamp, mangrove
+mangrove
 [rarity]
 1
 [artists]
@@ -24,8 +24,8 @@ https://ascii.co.uk/art/crab
                   .==')___(`==.    hjw
                  ' .='     `=.
 [new]
-   __       __   
-  / <`     '> \  
+·· __  ···  __ ··
+· / <`     '> \ ·
  (  / @   @ \  ) 
   \(_ _\_/_ _)/  
 (\ `-/     \-' /)

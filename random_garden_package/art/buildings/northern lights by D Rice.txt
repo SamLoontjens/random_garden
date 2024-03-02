@@ -1,7 +1,7 @@
 [name]
 northern lights
 [category]
-buildings
+buildings, unique
 [weather]
 night
 [biome]
@@ -56,7 +56,7 @@ Northern Lights
      .                         +      : |||`        .| :| | | |.| ||`     .  
        *     +   '               +  :|| |`     :.+. || || | |:`|| `          
                             .      .||` .    ..|| | |: '` `| | |`  +         
-  .       +++                      ||        !|!: `       :| |               
+  .       + +                      ||        !|!: `       :| |               
               +         .      .    | .      `|||.:      .||    .      .    `
           '                           `|.   .  `:|||   + ||'     `           
         +      *                         `'       `'|.    `:                 

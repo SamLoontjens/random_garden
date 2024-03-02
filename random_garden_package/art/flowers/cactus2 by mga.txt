@@ -5,7 +5,7 @@ flowers
 [weather]
 day, night
 [biome]
-desert
+desert, steppe
 [rarity]
 1
 [artists]
@@ -24,7 +24,7 @@ https://ascii.co.uk/art/cactus
     -| | \
      |_|-               mga
 [new]
-  _  _     
+  _  _  ···
  | || | _  
 -| || || | 
  | || || |-
@@ -32,4 +32,4 @@ https://ascii.co.uk/art/cactus
     |  _/  
    -| | \  
  \/ |_|-   
-_-^^^^^^^._
+-^^^^^^^-^.

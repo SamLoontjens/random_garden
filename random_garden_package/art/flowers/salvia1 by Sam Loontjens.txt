@@ -1,0 +1,19 @@
+[name]
+salvia1
+[category]
+flowers
+[weather]
+day, night, rain
+[biome]
+steppe
+[rarity]
+1
+[artists]
+Sam Loontjens
+[original]
+    !   
+ ! \!/  
+\!/\!/! 
+\!/ |\!/
+ |  | | 
+^^^^^^^^

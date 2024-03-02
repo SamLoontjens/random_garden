@@ -1,0 +1,31 @@
+[name]
+bee5
+[category]
+airbornes
+[weather]
+day, night
+[biome]
+taiga, temperate, grassland, steppe, savanna, tropical, swamp, lake
+[rarity]
+1
+[artists]
+unknown
+[editors]
+Sam Loontjens
+[retrieved from]
+https://www.asciiart.eu/animals/insects/bees
+[original]
+  ,,     ,,     ,,
+  oo    _oo_   ,oo,
+ /==\   /==\   /==\
+(/==\) (/==\) (/==\)
+  \/     \/     \/
+[new]
+   ,,   ···················
+  _oo_    ·················
+  /==\      ···············
+ (/==\)             ·······
+   \/        .' '.    ·····
+·   .        .   .         
+··    .       .           .
+···    ' .  . ' ' .  . '   

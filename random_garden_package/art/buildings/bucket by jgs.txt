@@ -5,7 +5,7 @@ buildings
 [weather]
 day, rain, night, snow
 [biome]
-taiga, temperate, grassland
+temperate
 [rarity]
 1
 [artists]
