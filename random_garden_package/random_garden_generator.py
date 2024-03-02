@@ -319,12 +319,12 @@ def random_garden(seed = None,
   # Select random biome if not provided
   if biome is None:
     biome = random.choice(list(biomes_and_weathers))
-    print(f'Random chosen biome: {biome}')
+    print(f'Random chosen biome: {biome}') if info >= 2 else None
 
   # Select random weather if not provided
   if weather is None:
     weather = random.choice(list(biomes_and_weathers[biome]))
-    print(f'Random chosen weather: {weather}')
+    print(f'Random chosen weather: {weather}') if info >= 2 else None
 
   # Check if draw height is enough for underwater otherwise change to ocean
   if biome == 'underwater' and draw_height < 22:
@@ -372,13 +372,13 @@ def random_garden(seed = None,
   
   # Calculate animal and building positions
   number_of_animals = random.randint(0, max_animals)
-  print(number_of_animals)
+  print(number_of_animals) if info >= 2 else None
   number_of_buildings = random.randint(0, max_buildings)
-  print(number_of_buildings)
+  print(number_of_buildings) if info >= 2 else None
   animal_positions = beta(2,2,number_of_animals)
-  print(animal_positions)
+  print(animal_positions) if info >= 2 else None
   building_positions = beta(2,2,number_of_buildings)
-  print(building_positions)
+  print(building_positions) if info >= 2 else None
 
   # Select and place building art
   for position in building_positions:
