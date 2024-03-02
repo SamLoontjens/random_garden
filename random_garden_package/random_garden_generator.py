@@ -114,9 +114,9 @@ class AsciiArt:
     width = len(art_lines[0]) if art_lines else 0
 
     # Check if all lines have the same width
-    for line in art_lines:
+    for i, line in enumerate(art_lines):
       if len(line) != width:
-        raise ValueError(f"Inconsistent line width in art object: {self.name}")
+        raise ValueError(f"Inconsistent line width in art object: {self.name} on line{i}: {line}")
 
     return art_lines, height, width
 
